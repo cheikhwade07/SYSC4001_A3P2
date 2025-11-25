@@ -32,7 +32,10 @@ struct SharedArea {
     sem_t mutex_log;        // protects log_counter and G-printing
     sem_t exam_ready;       // used to wake TAs when a new exam is loaded
 };
-
+/**
+ * Seydi Cheikh Wade (101323727)
+ * Sean Baldaia (101315064)
+ */
 /**
  * Sleep for a random number of milliseconds in [min_ms, max_ms].
  */
