@@ -1,7 +1,7 @@
 # SYSC 4001  Assignment 3, Part 2  
-Student 1: Seydi Cheikh Wade (101323727)
+Seydi Cheikh Wade (101323727)
 
-Student 2: Sean Baldaia (101315064)
+Sean Baldaia (101315064)
 
 Concurrent TA Marker (Shared Memory + Processes)
 
