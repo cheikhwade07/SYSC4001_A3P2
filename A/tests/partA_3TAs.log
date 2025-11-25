@@ -7,796 +7,787 @@
 [G00006][TA 2] Checking rubric for Q1 (current 'A')
 [G00007][TA 2] Correcting rubric Q1: A -> B (in shared memory)
 [G00008][TA 2] Checking rubric for Q2 (current 'B')
-[G00009][TA 1] Correcting rubric Q1: B -> C (in shared memory)
+[G00009][TA 1] Rubric for Q1 unchanged (still 'B')
 [G00010][TA 1] Checking rubric for Q2 (current 'B')
-[G00011][TA 0] Rubric for Q1 unchanged (still 'C')
-[G00012][TA 0] Checking rubric for Q2 (current 'B')
-[G00013][PARENT] Detected rubric change. Saving rubric to file...
-[G00014][TA 0] Correcting rubric Q2: B -> C (in shared memory)
-[G00015][TA 0] Checking rubric for Q3 (current 'C')
+[G00011][PARENT] Detected rubric change. Saving rubric to file...
+[G00012][TA 0] Rubric for Q1 unchanged (still 'B')
+[G00013][TA 0] Checking rubric for Q2 (current 'B')
+[G00014][TA 2] Correcting rubric Q2: B -> C (in shared memory)
+[G00015][TA 2] Checking rubric for Q3 (current 'C')
 [G00016][PARENT] Detected rubric change. Saving rubric to file...
-[G00017][TA 2] Correcting rubric Q2: C -> D (in shared memory)
-[G00018][TA 2] Checking rubric for Q3 (current 'C')
-[G00019][PARENT] Detected rubric change. Saving rubric to file...
-[G00020][TA 1] Correcting rubric Q2: D -> E (in shared memory)
-[G00021][TA 1] Checking rubric for Q3 (current 'C')
-[G00022][PARENT] Detected rubric change. Saving rubric to file...
-[G00023][TA 0] Correcting rubric Q3: C -> D (in shared memory)
-[G00024][TA 0] Checking rubric for Q4 (current 'D')
-[G00025][TA 2] Rubric for Q3 unchanged (still 'D')
-[G00026][TA 2] Checking rubric for Q4 (current 'D')
-[G00027][PARENT] Detected rubric change. Saving rubric to file...
-[G00028][TA 1] Correcting rubric Q3: D -> E (in shared memory)
-[G00029][TA 1] Checking rubric for Q4 (current 'D')
-[G00030][PARENT] Detected rubric change. Saving rubric to file...
-[G00031][TA 0] Correcting rubric Q4: D -> E (in shared memory)
-[G00032][TA 0] Checking rubric for Q5 (current 'E')
-[G00033][TA 2] Rubric for Q4 unchanged (still 'E')
-[G00034][TA 2] Checking rubric for Q5 (current 'E')
-[G00035][PARENT] Detected rubric change. Saving rubric to file...
-[G00036][TA 1] Correcting rubric Q4: E -> F (in shared memory)
-[G00037][TA 1] Checking rubric for Q5 (current 'E')
-[G00038][PARENT] Detected rubric change. Saving rubric to file...
-[G00039][TA 2] Rubric for Q5 unchanged (still 'E')
-[G00040][TA 2] Marking Q1 for student 0001 (rubric 'C')
-[G00041][TA 0] Rubric for Q5 unchanged (still 'E')
-[G00042][TA 0] Marking Q1 for student 0001 (rubric 'C')
-[G00043][TA 1] Rubric for Q5 unchanged (still 'E')
-[G00044][TA 1] Marking Q1 for student 0001 (rubric 'C')
+[G00017][TA 1] Correcting rubric Q2: C -> D (in shared memory)
+[G00018][TA 1] Checking rubric for Q3 (current 'C')
+[G00019][TA 0] Correcting rubric Q2: D -> E (in shared memory)
+[G00020][TA 0] Checking rubric for Q3 (current 'C')
+[G00021][PARENT] Detected rubric change. Saving rubric to file...
+[G00022][TA 2] Rubric for Q3 unchanged (still 'C')
+[G00023][TA 2] Checking rubric for Q4 (current 'D')
+[G00024][TA 1] Correcting rubric Q3: C -> D (in shared memory)
+[G00025][TA 1] Checking rubric for Q4 (current 'D')
+[G00026][PARENT] Detected rubric change. Saving rubric to file...
+[G00027][TA 0] Correcting rubric Q3: D -> E (in shared memory)
+[G00028][TA 0] Checking rubric for Q4 (current 'D')
+[G00029][TA 1] Correcting rubric Q4: D -> E (in shared memory)
+[G00030][TA 1] Checking rubric for Q5 (current 'E')
+[G00031][TA 2] Rubric for Q4 unchanged (still 'E')
+[G00032][TA 2] Checking rubric for Q5 (current 'E')
+[G00033][PARENT] Detected rubric change. Saving rubric to file...
+[G00034][TA 0] Rubric for Q4 unchanged (still 'E')
+[G00035][TA 0] Checking rubric for Q5 (current 'E')
+[G00036][TA 1] Rubric for Q5 unchanged (still 'E')
+[G00037][TA 1] Marking Q1 for student 0001 (rubric 'B')
+[G00038][TA 2] Rubric for Q5 unchanged (still 'E')
+[G00039][TA 2] Marking Q1 for student 0001 (rubric 'B')
+[G00040][TA 0] Correcting rubric Q5: E -> F (in shared memory)
+[G00041][TA 0] Marking Q1 for student 0001 (rubric 'B')
+[G00042][PARENT] Detected rubric change. Saving rubric to file...
+[G00043][TA 1] Finished Q1 for student 0001
+[G00044][TA 1] Marking Q2 for student 0001 (rubric 'E')
 [G00045][TA 2] Finished Q1 for student 0001
 [G00046][TA 2] Marking Q2 for student 0001 (rubric 'E')
 [G00047][TA 0] Finished Q1 for student 0001
 [G00048][TA 0] Marking Q2 for student 0001 (rubric 'E')
-[G00049][TA 1] Finished Q1 for student 0001
-[G00050][TA 1] Marking Q2 for student 0001 (rubric 'E')
+[G00049][TA 1] Finished Q2 for student 0001
+[G00050][TA 1] Marking Q3 for student 0001 (rubric 'E')
 [G00051][TA 2] Finished Q2 for student 0001
 [G00052][TA 2] Marking Q3 for student 0001 (rubric 'E')
 [G00053][TA 0] Finished Q2 for student 0001
 [G00054][TA 0] Marking Q3 for student 0001 (rubric 'E')
 [G00055][TA 2] Finished Q3 for student 0001
-[G00056][TA 2] Marking Q4 for student 0001 (rubric 'F')
-[G00057][TA 1] Finished Q2 for student 0001
-[G00058][TA 1] Marking Q4 for student 0001 (rubric 'F')
+[G00056][TA 2] Marking Q4 for student 0001 (rubric 'E')
+[G00057][TA 1] Finished Q3 for student 0001
+[G00058][TA 1] Marking Q4 for student 0001 (rubric 'E')
 [G00059][TA 0] Finished Q3 for student 0001
-[G00060][TA 0] Marking Q4 for student 0001 (rubric 'F')
+[G00060][TA 0] Marking Q4 for student 0001 (rubric 'E')
 [G00061][TA 2] Finished Q4 for student 0001
-[G00062][TA 2] Marking Q5 for student 0001 (rubric 'E')
+[G00062][TA 2] Marking Q5 for student 0001 (rubric 'F')
 [G00063][TA 1] Finished Q4 for student 0001
-[G00064][TA 1] Marking Q5 for student 0001 (rubric 'E')
+[G00064][TA 1] Marking Q5 for student 0001 (rubric 'F')
 [G00065][TA 0] Finished Q4 for student 0001
-[G00066][TA 0] Marking Q5 for student 0001 (rubric 'E')
-[G00067][TA 2] Finished Q5 for student 0001
-[G00068][TA 2] All questions for student 0001 appear done.
-[G00069][TA 2] Waiting for next exam...
-[G00070][PARENT] Loaded exam 02 from data/exams/exam02.txt, student 0002
-[G00071][TA 2] Starting work on student 0002
-[G00072][TA 2] Checking rubric for Q1 (current 'C')
-[G00073][TA 1] Finished Q5 for student 0002
-[G00074][TA 1] Marking Q1 for student 0002 (rubric 'C')
-[G00075][TA 2] Correcting rubric Q1: C -> D (in shared memory)
-[G00076][TA 2] Checking rubric for Q2 (current 'E')
-[G00077][TA 0] Finished Q5 for student 0002
-[G00078][TA 0] Marking Q1 for student 0002 (rubric 'D')
-[G00079][PARENT] Detected rubric change. Saving rubric to file...
-[G00080][TA 2] Rubric for Q2 unchanged (still 'E')
-[G00081][TA 2] Checking rubric for Q3 (current 'E')
-[G00082][TA 2] Rubric for Q3 unchanged (still 'E')
-[G00083][TA 2] Checking rubric for Q4 (current 'F')
-[G00084][TA 0] Finished Q1 for student 0002
-[G00085][TA 0] Marking Q2 for student 0002 (rubric 'E')
-[G00086][TA 1] Finished Q1 for student 0002
-[G00087][TA 1] Marking Q2 for student 0002 (rubric 'E')
-[G00088][TA 2] Rubric for Q4 unchanged (still 'F')
-[G00089][TA 2] Checking rubric for Q5 (current 'E')
-[G00090][TA 2] Correcting rubric Q5: E -> F (in shared memory)
-[G00091][TA 2] Marking Q2 for student 0002 (rubric 'E')
-[G00092][PARENT] Detected rubric change. Saving rubric to file...
-[G00093][TA 0] Finished Q2 for student 0002
-[G00094][TA 0] Marking Q3 for student 0002 (rubric 'E')
-[G00095][TA 1] Finished Q2 for student 0002
-[G00096][TA 1] Marking Q3 for student 0002 (rubric 'E')
-[G00097][TA 0] Finished Q3 for student 0002
-[G00098][TA 0] Marking Q4 for student 0002 (rubric 'F')
-[G00099][TA 2] Finished Q2 for student 0002
-[G00100][TA 2] Marking Q4 for student 0002 (rubric 'F')
-[G00101][TA 1] Finished Q3 for student 0002
-[G00102][TA 1] Marking Q4 for student 0002 (rubric 'F')
-[G00103][TA 0] Finished Q4 for student 0002
-[G00104][TA 0] All questions for student 0002 appear done.
-[G00105][TA 0] Waiting for next exam...
-[G00106][PARENT] Loaded exam 03 from data/exams/exam03.txt, student 0003
-[G00107][TA 0] Starting work on student 0003
-[G00108][TA 0] Checking rubric for Q1 (current 'D')
-[G00109][TA 2] Finished Q4 for student 0003
-[G00110][TA 2] Marking Q1 for student 0003 (rubric 'D')
-[G00111][TA 0] Correcting rubric Q1: D -> E (in shared memory)
-[G00112][TA 0] Checking rubric for Q2 (current 'E')
-[G00113][PARENT] Detected rubric change. Saving rubric to file...
-[G00114][TA 1] Finished Q4 for student 0003
-[G00115][TA 1] Marking Q1 for student 0003 (rubric 'E')
-[G00116][TA 0] Correcting rubric Q2: E -> F (in shared memory)
-[G00117][TA 0] Checking rubric for Q3 (current 'E')
-[G00118][PARENT] Detected rubric change. Saving rubric to file...
-[G00119][TA 0] Correcting rubric Q3: E -> F (in shared memory)
-[G00120][TA 0] Checking rubric for Q4 (current 'F')
-[G00121][PARENT] Detected rubric change. Saving rubric to file...
-[G00122][TA 2] Finished Q1 for student 0003
-[G00123][TA 2] Marking Q2 for student 0003 (rubric 'F')
-[G00124][TA 0] Rubric for Q4 unchanged (still 'F')
-[G00125][TA 0] Checking rubric for Q5 (current 'F')
-[G00126][TA 1] Finished Q1 for student 0003
-[G00127][TA 1] Marking Q2 for student 0003 (rubric 'F')
-[G00128][TA 0] Correcting rubric Q5: F -> G (in shared memory)
-[G00129][TA 0] Marking Q2 for student 0003 (rubric 'F')
-[G00130][PARENT] Detected rubric change. Saving rubric to file...
-[G00131][TA 2] Finished Q2 for student 0003
-[G00132][TA 2] Marking Q3 for student 0003 (rubric 'F')
-[G00133][TA 1] Finished Q2 for student 0003
-[G00134][TA 1] Marking Q3 for student 0003 (rubric 'F')
-[G00135][TA 0] Finished Q2 for student 0003
-[G00136][TA 0] Marking Q3 for student 0003 (rubric 'F')
-[G00137][TA 2] Finished Q3 for student 0003
-[G00138][TA 2] Marking Q5 for student 0003 (rubric 'G')
-[G00139][TA 1] Finished Q3 for student 0003
-[G00140][TA 1] Marking Q5 for student 0003 (rubric 'G')
-[G00141][TA 0] Finished Q3 for student 0003
-[G00142][TA 0] Marking Q5 for student 0003 (rubric 'G')
-[G00143][TA 2] Finished Q5 for student 0003
-[G00144][TA 2] All questions for student 0003 appear done.
-[G00145][TA 2] Waiting for next exam...
-[G00146][PARENT] Loaded exam 04 from data/exams/exam04.txt, student 0004
-[G00147][TA 2] Starting work on student 0004
-[G00148][TA 2] Checking rubric for Q1 (current 'E')
-[G00149][TA 2] Correcting rubric Q1: E -> F (in shared memory)
-[G00150][TA 2] Checking rubric for Q2 (current 'F')
-[G00151][PARENT] Detected rubric change. Saving rubric to file...
-[G00152][TA 2] Rubric for Q2 unchanged (still 'F')
-[G00153][TA 2] Checking rubric for Q3 (current 'F')
-[G00154][TA 0] Finished Q5 for student 0004
-[G00155][TA 0] Marking Q1 for student 0004 (rubric 'F')
-[G00156][TA 1] Finished Q5 for student 0004
-[G00157][TA 1] Marking Q1 for student 0004 (rubric 'F')
-[G00158][TA 2] Correcting rubric Q3: F -> G (in shared memory)
-[G00159][TA 2] Checking rubric for Q4 (current 'F')
-[G00160][PARENT] Detected rubric change. Saving rubric to file...
-[G00161][TA 1] Finished Q1 for student 0004
-[G00162][TA 1] Marking Q2 for student 0004 (rubric 'F')
-[G00163][TA 0] Finished Q1 for student 0004
-[G00164][TA 0] Marking Q2 for student 0004 (rubric 'F')
-[G00165][TA 2] Correcting rubric Q4: F -> G (in shared memory)
-[G00166][TA 2] Checking rubric for Q5 (current 'G')
-[G00167][PARENT] Detected rubric change. Saving rubric to file...
-[G00168][TA 2] Rubric for Q5 unchanged (still 'G')
-[G00169][TA 2] Marking Q2 for student 0004 (rubric 'F')
-[G00170][TA 1] Finished Q2 for student 0004
-[G00171][TA 1] Marking Q3 for student 0004 (rubric 'G')
-[G00172][TA 0] Finished Q2 for student 0004
-[G00173][TA 0] Marking Q3 for student 0004 (rubric 'G')
-[G00174][TA 2] Finished Q2 for student 0004
-[G00175][TA 2] Marking Q3 for student 0004 (rubric 'G')
-[G00176][TA 0] Finished Q3 for student 0004
-[G00177][TA 0] Marking Q4 for student 0004 (rubric 'G')
-[G00178][TA 2] Finished Q3 for student 0004
-[G00179][TA 2] Marking Q4 for student 0004 (rubric 'G')
-[G00180][TA 1] Finished Q3 for student 0004
-[G00181][TA 1] Marking Q4 for student 0004 (rubric 'G')
-[G00182][TA 2] Finished Q4 for student 0004
-[G00183][TA 2] All questions for student 0004 appear done.
-[G00184][TA 2] Waiting for next exam...
-[G00185][PARENT] Loaded exam 05 from data/exams/exam05.txt, student 0005
-[G00186][TA 2] Starting work on student 0005
-[G00187][TA 2] Checking rubric for Q1 (current 'F')
-[G00188][TA 1] Finished Q4 for student 0005
-[G00189][TA 1] Marking Q1 for student 0005 (rubric 'F')
-[G00190][TA 0] Finished Q4 for student 0005
-[G00191][TA 0] Marking Q1 for student 0005 (rubric 'F')
-[G00192][TA 2] Rubric for Q1 unchanged (still 'F')
-[G00193][TA 2] Checking rubric for Q2 (current 'F')
-[G00194][TA 1] Finished Q1 for student 0005
-[G00195][TA 1] Marking Q2 for student 0005 (rubric 'F')
-[G00196][TA 2] Correcting rubric Q2: F -> G (in shared memory)
-[G00197][TA 2] Checking rubric for Q3 (current 'G')
-[G00198][TA 0] Finished Q1 for student 0005
-[G00199][TA 0] Marking Q2 for student 0005 (rubric 'G')
-[G00200][PARENT] Detected rubric change. Saving rubric to file...
-[G00201][TA 1] Finished Q2 for student 0005
-[G00202][TA 1] Marking Q3 for student 0005 (rubric 'G')
-[G00203][TA 2] Correcting rubric Q3: G -> H (in shared memory)
-[G00204][TA 2] Checking rubric for Q4 (current 'G')
-[G00205][PARENT] Detected rubric change. Saving rubric to file...
-[G00206][TA 0] Finished Q2 for student 0005
-[G00207][TA 0] Marking Q3 for student 0005 (rubric 'H')
-[G00208][TA 2] Correcting rubric Q4: G -> H (in shared memory)
-[G00209][TA 2] Checking rubric for Q5 (current 'G')
-[G00210][PARENT] Detected rubric change. Saving rubric to file...
-[G00211][TA 1] Finished Q3 for student 0005
-[G00212][TA 1] Marking Q5 for student 0005 (rubric 'G')
-[G00213][TA 2] Rubric for Q5 unchanged (still 'G')
-[G00214][TA 2] Marking Q5 for student 0005 (rubric 'G')
-[G00215][TA 0] Finished Q3 for student 0005
-[G00216][TA 0] Marking Q5 for student 0005 (rubric 'G')
-[G00217][TA 1] Finished Q5 for student 0005
-[G00218][TA 1] All questions for student 0005 appear done.
-[G00219][TA 1] Waiting for next exam...
-[G00220][PARENT] Loaded exam 06 from data/exams/exam06.txt, student 0006
-[G00221][TA 1] Starting work on student 0006
-[G00222][TA 1] Checking rubric for Q1 (current 'F')
-[G00223][TA 2] Finished Q5 for student 0006
-[G00224][TA 2] Marking Q1 for student 0006 (rubric 'F')
-[G00225][TA 1] Rubric for Q1 unchanged (still 'F')
-[G00226][TA 1] Checking rubric for Q2 (current 'G')
-[G00227][TA 0] Finished Q5 for student 0006
-[G00228][TA 0] Marking Q1 for student 0006 (rubric 'F')
-[G00229][TA 1] Rubric for Q2 unchanged (still 'G')
-[G00230][TA 1] Checking rubric for Q3 (current 'H')
-[G00231][TA 2] Finished Q1 for student 0006
-[G00232][TA 2] Marking Q2 for student 0006 (rubric 'G')
-[G00233][TA 0] Finished Q1 for student 0006
-[G00234][TA 0] Marking Q2 for student 0006 (rubric 'G')
-[G00235][TA 1] Correcting rubric Q3: H -> I (in shared memory)
-[G00236][TA 1] Checking rubric for Q4 (current 'H')
-[G00237][PARENT] Detected rubric change. Saving rubric to file...
-[G00238][TA 1] Correcting rubric Q4: H -> I (in shared memory)
-[G00239][TA 1] Checking rubric for Q5 (current 'G')
-[G00240][PARENT] Detected rubric change. Saving rubric to file...
-[G00241][TA 2] Finished Q2 for student 0006
-[G00242][TA 2] Marking Q3 for student 0006 (rubric 'I')
-[G00243][TA 1] Rubric for Q5 unchanged (still 'G')
-[G00244][TA 1] Marking Q3 for student 0006 (rubric 'I')
-[G00245][TA 0] Finished Q2 for student 0006
-[G00246][TA 0] Marking Q3 for student 0006 (rubric 'I')
-[G00247][TA 2] Finished Q3 for student 0006
-[G00248][TA 2] Marking Q4 for student 0006 (rubric 'I')
-[G00249][TA 1] Finished Q3 for student 0006
-[G00250][TA 1] Marking Q4 for student 0006 (rubric 'I')
-[G00251][TA 0] Finished Q3 for student 0006
-[G00252][TA 0] Marking Q4 for student 0006 (rubric 'I')
-[G00253][TA 2] Finished Q4 for student 0006
-[G00254][TA 2] All questions for student 0006 appear done.
-[G00255][TA 2] Waiting for next exam...
-[G00256][TA 0] Finished Q4 for student 0006
-[G00257][TA 0] All questions for student 0006 appear done.
-[G00258][TA 0] Waiting for next exam...
-[G00259][PARENT] Loaded exam 07 from data/exams/exam07.txt, student 0007
-[G00260][TA 0] Starting work on student 0007
-[G00261][TA 0] Checking rubric for Q1 (current 'F')
-[G00262][TA 2] Starting work on student 0007
-[G00263][TA 2] Checking rubric for Q1 (current 'F')
-[G00264][TA 1] Finished Q4 for student 0007
-[G00265][TA 1] Marking Q1 for student 0007 (rubric 'F')
-[G00266][TA 2] Correcting rubric Q1: F -> G (in shared memory)
-[G00267][TA 2] Checking rubric for Q2 (current 'G')
-[G00268][PARENT] Detected rubric change. Saving rubric to file...
-[G00269][TA 0] Rubric for Q1 unchanged (still 'G')
-[G00270][TA 0] Checking rubric for Q2 (current 'G')
-[G00271][TA 2] Rubric for Q2 unchanged (still 'G')
-[G00272][TA 2] Checking rubric for Q3 (current 'I')
-[G00273][TA 0] Rubric for Q2 unchanged (still 'G')
-[G00274][TA 0] Checking rubric for Q3 (current 'I')
-[G00275][TA 2] Correcting rubric Q3: I -> J (in shared memory)
-[G00276][TA 2] Checking rubric for Q4 (current 'I')
-[G00277][PARENT] Detected rubric change. Saving rubric to file...
-[G00278][TA 1] Finished Q1 for student 0007
-[G00279][TA 1] Marking Q2 for student 0007 (rubric 'G')
-[G00280][TA 0] Rubric for Q3 unchanged (still 'J')
-[G00281][TA 0] Checking rubric for Q4 (current 'I')
-[G00282][TA 2] Correcting rubric Q4: I -> J (in shared memory)
-[G00283][TA 2] Checking rubric for Q5 (current 'G')
-[G00284][PARENT] Detected rubric change. Saving rubric to file...
-[G00285][TA 0] Correcting rubric Q4: J -> K (in shared memory)
-[G00286][TA 0] Checking rubric for Q5 (current 'G')
-[G00287][TA 2] Rubric for Q5 unchanged (still 'G')
-[G00288][TA 2] Marking Q2 for student 0007 (rubric 'G')
-[G00289][PARENT] Detected rubric change. Saving rubric to file...
-[G00290][TA 1] Finished Q2 for student 0007
-[G00291][TA 1] Marking Q3 for student 0007 (rubric 'J')
-[G00292][TA 0] Correcting rubric Q5: G -> H (in shared memory)
-[G00293][TA 0] Marking Q3 for student 0007 (rubric 'J')
-[G00294][TA 2] Finished Q2 for student 0007
-[G00295][TA 2] Marking Q3 for student 0007 (rubric 'J')
-[G00296][PARENT] Detected rubric change. Saving rubric to file...
-[G00297][TA 1] Finished Q3 for student 0007
-[G00298][TA 1] Marking Q5 for student 0007 (rubric 'H')
-[G00299][TA 2] Finished Q3 for student 0007
-[G00300][TA 2] Marking Q5 for student 0007 (rubric 'H')
-[G00301][TA 0] Finished Q3 for student 0007
-[G00302][TA 0] Marking Q5 for student 0007 (rubric 'H')
-[G00303][TA 1] Finished Q5 for student 0007
-[G00304][TA 1] All questions for student 0007 appear done.
-[G00305][TA 1] Waiting for next exam...
-[G00306][PARENT] Loaded exam 08 from data/exams/exam08.txt, student 0008
-[G00307][TA 1] Starting work on student 0008
-[G00308][TA 1] Checking rubric for Q1 (current 'G')
-[G00309][TA 0] Finished Q5 for student 0008
-[G00310][TA 0] Marking Q1 for student 0008 (rubric 'G')
-[G00311][TA 2] Finished Q5 for student 0008
-[G00312][TA 2] Marking Q1 for student 0008 (rubric 'G')
-[G00313][TA 1] Correcting rubric Q1: G -> H (in shared memory)
-[G00314][TA 1] Checking rubric for Q2 (current 'G')
-[G00315][PARENT] Detected rubric change. Saving rubric to file...
-[G00316][TA 2] Finished Q1 for student 0008
-[G00317][TA 2] Marking Q2 for student 0008 (rubric 'G')
-[G00318][TA 1] Rubric for Q2 unchanged (still 'G')
-[G00319][TA 1] Checking rubric for Q3 (current 'J')
-[G00320][TA 0] Finished Q1 for student 0008
-[G00321][TA 0] Marking Q2 for student 0008 (rubric 'G')
-[G00322][TA 1] Correcting rubric Q3: J -> K (in shared memory)
-[G00323][TA 1] Checking rubric for Q4 (current 'K')
-[G00324][PARENT] Detected rubric change. Saving rubric to file...
-[G00325][TA 2] Finished Q2 for student 0008
-[G00326][TA 2] Marking Q3 for student 0008 (rubric 'K')
-[G00327][TA 0] Finished Q2 for student 0008
-[G00328][TA 0] Marking Q3 for student 0008 (rubric 'K')
-[G00329][TA 1] Rubric for Q4 unchanged (still 'K')
-[G00330][TA 1] Checking rubric for Q5 (current 'H')
-[G00331][TA 1] Correcting rubric Q5: H -> I (in shared memory)
-[G00332][TA 1] Marking Q3 for student 0008 (rubric 'K')
-[G00333][PARENT] Detected rubric change. Saving rubric to file...
-[G00334][TA 0] Finished Q3 for student 0008
-[G00335][TA 0] Marking Q4 for student 0008 (rubric 'K')
-[G00336][TA 2] Finished Q3 for student 0008
-[G00337][TA 2] Marking Q4 for student 0008 (rubric 'K')
-[G00338][TA 1] Finished Q3 for student 0008
-[G00339][TA 1] Marking Q4 for student 0008 (rubric 'K')
-[G00340][TA 2] Finished Q4 for student 0008
-[G00341][TA 2] All questions for student 0008 appear done.
-[G00342][TA 2] Waiting for next exam...
-[G00343][TA 0] Finished Q4 for student 0008
-[G00344][TA 0] All questions for student 0008 appear done.
-[G00345][TA 0] Waiting for next exam...
-[G00346][PARENT] Loaded exam 09 from data/exams/exam09.txt, student 0009
-[G00347][TA 0] Starting work on student 0009
-[G00348][TA 0] Checking rubric for Q1 (current 'H')
-[G00349][TA 2] Starting work on student 0009
-[G00350][TA 2] Checking rubric for Q1 (current 'H')
-[G00351][TA 0] Rubric for Q1 unchanged (still 'H')
-[G00352][TA 0] Checking rubric for Q2 (current 'G')
-[G00353][TA 2] Rubric for Q1 unchanged (still 'H')
-[G00354][TA 2] Checking rubric for Q2 (current 'G')
-[G00355][TA 1] Finished Q4 for student 0009
-[G00356][TA 1] Marking Q1 for student 0009 (rubric 'H')
-[G00357][TA 0] Correcting rubric Q2: G -> H (in shared memory)
-[G00358][TA 0] Checking rubric for Q3 (current 'K')
-[G00359][PARENT] Detected rubric change. Saving rubric to file...
-[G00360][TA 2] Rubric for Q2 unchanged (still 'H')
-[G00361][TA 2] Checking rubric for Q3 (current 'K')
-[G00362][TA 0] Rubric for Q3 unchanged (still 'K')
-[G00363][TA 0] Checking rubric for Q4 (current 'K')
-[G00364][TA 2] Correcting rubric Q3: K -> L (in shared memory)
-[G00365][TA 2] Checking rubric for Q4 (current 'K')
-[G00366][PARENT] Detected rubric change. Saving rubric to file...
-[G00367][TA 1] Finished Q1 for student 0009
-[G00368][TA 1] Marking Q2 for student 0009 (rubric 'H')
-[G00369][TA 0] Rubric for Q4 unchanged (still 'K')
-[G00370][TA 0] Checking rubric for Q5 (current 'I')
-[G00371][TA 2] Correcting rubric Q4: K -> L (in shared memory)
-[G00372][TA 2] Checking rubric for Q5 (current 'I')
-[G00373][PARENT] Detected rubric change. Saving rubric to file...
-[G00374][TA 0] Rubric for Q5 unchanged (still 'I')
-[G00375][TA 0] Marking Q2 for student 0009 (rubric 'H')
-[G00376][TA 1] Finished Q2 for student 0009
-[G00377][TA 1] Marking Q3 for student 0009 (rubric 'L')
-[G00378][TA 2] Rubric for Q5 unchanged (still 'I')
-[G00379][TA 2] Marking Q3 for student 0009 (rubric 'L')
-[G00380][TA 0] Finished Q2 for student 0009
-[G00381][TA 0] Marking Q3 for student 0009 (rubric 'L')
-[G00382][TA 2] Finished Q3 for student 0009
-[G00383][TA 2] Marking Q5 for student 0009 (rubric 'I')
-[G00384][TA 1] Finished Q3 for student 0009
-[G00385][TA 1] Marking Q5 for student 0009 (rubric 'I')
-[G00386][TA 2] Finished Q5 for student 0009
-[G00387][TA 2] All questions for student 0009 appear done.
-[G00388][TA 2] Waiting for next exam...
-[G00389][TA 1] Finished Q5 for student 0009
-[G00390][TA 1] All questions for student 0009 appear done.
-[G00391][TA 1] Waiting for next exam...
-[G00392][PARENT] Loaded exam 10 from data/exams/exam10.txt, student 0010
-[G00393][TA 0] Finished Q3 for student 0010
-[G00394][TA 0] Marking Q1 for student 0010 (rubric 'H')
-[G00395][TA 2] Starting work on student 0010
-[G00396][TA 2] Checking rubric for Q1 (current 'H')
-[G00397][TA 1] Starting work on student 0010
-[G00398][TA 1] Checking rubric for Q1 (current 'H')
-[G00399][TA 2] Correcting rubric Q1: H -> I (in shared memory)
-[G00400][TA 2] Checking rubric for Q2 (current 'H')
-[G00401][TA 1] Rubric for Q1 unchanged (still 'I')
-[G00402][TA 1] Checking rubric for Q2 (current 'H')
-[G00403][PARENT] Detected rubric change. Saving rubric to file...
-[G00404][TA 0] Finished Q1 for student 0010
-[G00405][TA 0] Marking Q2 for student 0010 (rubric 'H')
-[G00406][TA 2] Rubric for Q2 unchanged (still 'H')
-[G00407][TA 2] Checking rubric for Q3 (current 'L')
-[G00408][TA 1] Rubric for Q2 unchanged (still 'H')
-[G00409][TA 1] Checking rubric for Q3 (current 'L')
-[G00410][TA 2] Rubric for Q3 unchanged (still 'L')
-[G00411][TA 2] Checking rubric for Q4 (current 'L')
-[G00412][TA 0] Finished Q2 for student 0010
-[G00413][TA 0] Marking Q4 for student 0010 (rubric 'L')
-[G00414][TA 1] Correcting rubric Q3: L -> M (in shared memory)
-[G00415][TA 1] Checking rubric for Q4 (current 'L')
-[G00416][TA 2] Rubric for Q4 unchanged (still 'L')
-[G00417][TA 2] Checking rubric for Q5 (current 'I')
-[G00418][PARENT] Detected rubric change. Saving rubric to file...
-[G00419][TA 2] Rubric for Q5 unchanged (still 'I')
-[G00420][TA 2] Marking Q4 for student 0010 (rubric 'L')
-[G00421][TA 1] Correcting rubric Q4: L -> M (in shared memory)
-[G00422][TA 1] Checking rubric for Q5 (current 'I')
-[G00423][TA 0] Finished Q4 for student 0010
-[G00424][TA 0] Marking Q5 for student 0010 (rubric 'I')
-[G00425][PARENT] Detected rubric change. Saving rubric to file...
-[G00426][TA 1] Rubric for Q5 unchanged (still 'I')
-[G00427][TA 1] Marking Q5 for student 0010 (rubric 'I')
-[G00428][TA 0] Finished Q5 for student 0010
-[G00429][TA 0] All questions for student 0010 appear done.
-[G00430][TA 0] Waiting for next exam...
-[G00431][PARENT] Loaded exam 11 from data/exams/exam11.txt, student 0011
-[G00432][TA 0] Starting work on student 0011
-[G00433][TA 0] Checking rubric for Q1 (current 'I')
-[G00434][TA 2] Finished Q4 for student 0011
-[G00435][TA 2] Marking Q1 for student 0011 (rubric 'I')
-[G00436][TA 1] Finished Q5 for student 0011
-[G00437][TA 1] Marking Q1 for student 0011 (rubric 'I')
-[G00438][TA 0] Correcting rubric Q1: I -> J (in shared memory)
-[G00439][TA 0] Checking rubric for Q2 (current 'H')
-[G00440][PARENT] Detected rubric change. Saving rubric to file...
-[G00441][TA 2] Finished Q1 for student 0011
-[G00442][TA 2] Marking Q2 for student 0011 (rubric 'H')
-[G00443][TA 0] Correcting rubric Q2: H -> I (in shared memory)
-[G00444][TA 0] Checking rubric for Q3 (current 'M')
-[G00445][PARENT] Detected rubric change. Saving rubric to file...
-[G00446][TA 1] Finished Q1 for student 0011
-[G00447][TA 1] Marking Q2 for student 0011 (rubric 'I')
-[G00448][TA 0] Correcting rubric Q3: M -> N (in shared memory)
-[G00449][TA 0] Checking rubric for Q4 (current 'M')
-[G00450][TA 2] Finished Q2 for student 0011
-[G00451][TA 2] Marking Q3 for student 0011 (rubric 'N')
-[G00452][PARENT] Detected rubric change. Saving rubric to file...
-[G00453][TA 0] Rubric for Q4 unchanged (still 'M')
-[G00454][TA 0] Checking rubric for Q5 (current 'I')
-[G00455][TA 1] Finished Q2 for student 0011
-[G00456][TA 1] Marking Q3 for student 0011 (rubric 'N')
-[G00457][TA 0] Rubric for Q5 unchanged (still 'I')
-[G00458][TA 0] Marking Q3 for student 0011 (rubric 'N')
-[G00459][TA 2] Finished Q3 for student 0011
-[G00460][TA 2] All questions for student 0011 appear done.
-[G00461][TA 2] Waiting for next exam...
-[G00462][PARENT] Loaded exam 12 from data/exams/exam12.txt, student 0012
-[G00463][TA 2] Starting work on student 0012
-[G00464][TA 2] Checking rubric for Q1 (current 'J')
-[G00465][TA 2] Correcting rubric Q1: J -> K (in shared memory)
-[G00466][TA 2] Checking rubric for Q2 (current 'I')
-[G00467][TA 1] Finished Q3 for student 0012
-[G00468][TA 1] Marking Q1 for student 0012 (rubric 'K')
-[G00469][PARENT] Detected rubric change. Saving rubric to file...
-[G00470][TA 0] Finished Q3 for student 0012
-[G00471][TA 0] Marking Q1 for student 0012 (rubric 'K')
-[G00472][TA 2] Correcting rubric Q2: I -> J (in shared memory)
-[G00473][TA 2] Checking rubric for Q3 (current 'N')
-[G00474][PARENT] Detected rubric change. Saving rubric to file...
-[G00475][TA 1] Finished Q1 for student 0012
-[G00476][TA 1] Marking Q2 for student 0012 (rubric 'J')
-[G00477][TA 2] Rubric for Q3 unchanged (still 'N')
-[G00478][TA 2] Checking rubric for Q4 (current 'M')
-[G00479][TA 0] Finished Q1 for student 0012
-[G00480][TA 0] Marking Q2 for student 0012 (rubric 'J')
-[G00481][TA 2] Correcting rubric Q4: M -> N (in shared memory)
-[G00482][TA 2] Checking rubric for Q5 (current 'I')
-[G00483][PARENT] Detected rubric change. Saving rubric to file...
-[G00484][TA 2] Correcting rubric Q5: I -> J (in shared memory)
-[G00485][TA 2] Marking Q2 for student 0012 (rubric 'J')
-[G00486][PARENT] Detected rubric change. Saving rubric to file...
-[G00487][TA 1] Finished Q2 for student 0012
-[G00488][TA 1] Marking Q4 for student 0012 (rubric 'N')
-[G00489][TA 0] Finished Q2 for student 0012
-[G00490][TA 0] Marking Q4 for student 0012 (rubric 'N')
-[G00491][TA 2] Finished Q2 for student 0012
-[G00492][TA 2] Marking Q4 for student 0012 (rubric 'N')
-[G00493][TA 0] Finished Q4 for student 0012
-[G00494][TA 0] Marking Q5 for student 0012 (rubric 'J')
-[G00495][TA 1] Finished Q4 for student 0012
-[G00496][TA 1] Marking Q5 for student 0012 (rubric 'J')
-[G00497][TA 1] Finished Q5 for student 0012
-[G00498][TA 1] All questions for student 0012 appear done.
-[G00499][TA 1] Waiting for next exam...
-[G00500][TA 0] Finished Q5 for student 0012
-[G00501][TA 0] All questions for student 0012 appear done.
-[G00502][TA 0] Waiting for next exam...
-[G00503][PARENT] Loaded exam 13 from data/exams/exam13.txt, student 0013
-[G00504][TA 1] Starting work on student 0013
-[G00505][TA 1] Checking rubric for Q1 (current 'K')
-[G00506][TA 0] Starting work on student 0013
-[G00507][TA 0] Checking rubric for Q1 (current 'K')
-[G00508][TA 2] Finished Q4 for student 0013
-[G00509][TA 2] Marking Q1 for student 0013 (rubric 'K')
-[G00510][TA 1] Correcting rubric Q1: K -> L (in shared memory)
-[G00511][TA 1] Checking rubric for Q2 (current 'J')
-[G00512][TA 0] Correcting rubric Q1: L -> M (in shared memory)
-[G00513][TA 0] Checking rubric for Q2 (current 'J')
-[G00514][PARENT] Detected rubric change. Saving rubric to file...
-[G00515][TA 1] Rubric for Q2 unchanged (still 'J')
-[G00516][TA 1] Checking rubric for Q3 (current 'N')
-[G00517][TA 0] Correcting rubric Q2: J -> K (in shared memory)
-[G00518][TA 0] Checking rubric for Q3 (current 'N')
-[G00519][PARENT] Detected rubric change. Saving rubric to file...
-[G00520][TA 1] Correcting rubric Q3: N -> O (in shared memory)
-[G00521][TA 1] Checking rubric for Q4 (current 'N')
-[G00522][PARENT] Detected rubric change. Saving rubric to file...
-[G00523][TA 0] Correcting rubric Q3: O -> P (in shared memory)
-[G00524][TA 0] Checking rubric for Q4 (current 'N')
+[G00066][TA 0] Marking Q5 for student 0001 (rubric 'F')
+[G00067][TA 0] Finished Q5 for student 0001
+[G00068][TA 0] All questions for student 0001 appear done.
+[G00069][TA 0] Waiting for next exam...
+[G00070][TA 2] Finished Q5 for student 0001
+[G00071][TA 2] All questions for student 0001 appear done.
+[G00072][TA 2] Waiting for next exam...
+[G00073][TA 1] Finished Q5 for student 0001
+[G00074][TA 1] All questions for student 0001 appear done.
+[G00075][TA 1] Waiting for next exam...
+[G00076][PARENT] Loaded exam 02 from data/exams/exam02.txt, student 0002
+[G00077][TA 2] Starting work on student 0002
+[G00078][TA 2] Checking rubric for Q1 (current 'B')
+[G00079][TA 1] Starting work on student 0002
+[G00080][TA 1] Checking rubric for Q1 (current 'B')
+[G00081][TA 0] Starting work on student 0002
+[G00082][TA 0] Checking rubric for Q1 (current 'B')
+[G00083][TA 0] Correcting rubric Q1: B -> C (in shared memory)
+[G00084][TA 0] Checking rubric for Q2 (current 'E')
+[G00085][TA 2] Correcting rubric Q1: C -> D (in shared memory)
+[G00086][TA 2] Checking rubric for Q2 (current 'E')
+[G00087][TA 1] Correcting rubric Q1: D -> E (in shared memory)
+[G00088][TA 1] Checking rubric for Q2 (current 'E')
+[G00089][PARENT] Detected rubric change. Saving rubric to file...
+[G00090][TA 2] Rubric for Q2 unchanged (still 'E')
+[G00091][TA 2] Checking rubric for Q3 (current 'E')
+[G00092][TA 0] Correcting rubric Q2: E -> F (in shared memory)
+[G00093][TA 0] Checking rubric for Q3 (current 'E')
+[G00094][TA 1] Correcting rubric Q2: F -> G (in shared memory)
+[G00095][TA 1] Checking rubric for Q3 (current 'E')
+[G00096][PARENT] Detected rubric change. Saving rubric to file...
+[G00097][TA 0] Correcting rubric Q3: E -> F (in shared memory)
+[G00098][TA 0] Checking rubric for Q4 (current 'E')
+[G00099][TA 2] Rubric for Q3 unchanged (still 'F')
+[G00100][TA 2] Checking rubric for Q4 (current 'E')
+[G00101][TA 1] Correcting rubric Q3: F -> G (in shared memory)
+[G00102][TA 1] Checking rubric for Q4 (current 'E')
+[G00103][PARENT] Detected rubric change. Saving rubric to file...
+[G00104][TA 2] Correcting rubric Q4: E -> F (in shared memory)
+[G00105][TA 2] Checking rubric for Q5 (current 'F')
+[G00106][PARENT] Detected rubric change. Saving rubric to file...
+[G00107][TA 1] Rubric for Q4 unchanged (still 'F')
+[G00108][TA 1] Checking rubric for Q5 (current 'F')
+[G00109][TA 0] Correcting rubric Q4: F -> G (in shared memory)
+[G00110][TA 0] Checking rubric for Q5 (current 'F')
+[G00111][PARENT] Detected rubric change. Saving rubric to file...
+[G00112][TA 2] Rubric for Q5 unchanged (still 'F')
+[G00113][TA 2] Marking Q1 for student 0002 (rubric 'E')
+[G00114][TA 1] Correcting rubric Q5: F -> G (in shared memory)
+[G00115][TA 1] Marking Q1 for student 0002 (rubric 'E')
+[G00116][PARENT] Detected rubric change. Saving rubric to file...
+[G00117][TA 0] Correcting rubric Q5: G -> H (in shared memory)
+[G00118][TA 0] Marking Q1 for student 0002 (rubric 'E')
+[G00119][PARENT] Detected rubric change. Saving rubric to file...
+[G00120][TA 2] Finished Q1 for student 0002
+[G00121][TA 2] Marking Q2 for student 0002 (rubric 'G')
+[G00122][TA 0] Finished Q1 for student 0002
+[G00123][TA 0] Marking Q2 for student 0002 (rubric 'G')
+[G00124][TA 1] Finished Q1 for student 0002
+[G00125][TA 1] Marking Q2 for student 0002 (rubric 'G')
+[G00126][TA 2] Finished Q2 for student 0002
+[G00127][TA 2] Marking Q3 for student 0002 (rubric 'G')
+[G00128][TA 0] Finished Q2 for student 0002
+[G00129][TA 0] Marking Q3 for student 0002 (rubric 'G')
+[G00130][TA 1] Finished Q2 for student 0002
+[G00131][TA 1] Marking Q3 for student 0002 (rubric 'G')
+[G00132][TA 2] Finished Q3 for student 0002
+[G00133][TA 2] Marking Q4 for student 0002 (rubric 'G')
+[G00134][TA 1] Finished Q3 for student 0002
+[G00135][TA 1] Marking Q4 for student 0002 (rubric 'G')
+[G00136][TA 0] Finished Q3 for student 0002
+[G00137][TA 0] Marking Q4 for student 0002 (rubric 'G')
+[G00138][TA 2] Finished Q4 for student 0002
+[G00139][TA 2] Marking Q5 for student 0002 (rubric 'H')
+[G00140][TA 0] Finished Q4 for student 0002
+[G00141][TA 0] Marking Q5 for student 0002 (rubric 'H')
+[G00142][TA 1] Finished Q4 for student 0002
+[G00143][TA 1] Marking Q5 for student 0002 (rubric 'H')
+[G00144][TA 2] Finished Q5 for student 0002
+[G00145][TA 2] All questions for student 0002 appear done.
+[G00146][TA 2] Waiting for next exam...
+[G00147][PARENT] Loaded exam 03 from data/exams/exam03.txt, student 0003
+[G00148][TA 2] Starting work on student 0003
+[G00149][TA 2] Checking rubric for Q1 (current 'E')
+[G00150][TA 0] Finished Q5 for student 0003
+[G00151][TA 0] Marking Q1 for student 0003 (rubric 'E')
+[G00152][TA 2] Rubric for Q1 unchanged (still 'E')
+[G00153][TA 2] Checking rubric for Q2 (current 'G')
+[G00154][TA 1] Finished Q5 for student 0003
+[G00155][TA 1] Marking Q1 for student 0003 (rubric 'E')
+[G00156][TA 2] Rubric for Q2 unchanged (still 'G')
+[G00157][TA 2] Checking rubric for Q3 (current 'G')
+[G00158][TA 0] Finished Q1 for student 0003
+[G00159][TA 0] Marking Q2 for student 0003 (rubric 'G')
+[G00160][TA 1] Finished Q1 for student 0003
+[G00161][TA 1] Marking Q2 for student 0003 (rubric 'G')
+[G00162][TA 2] Correcting rubric Q3: G -> H (in shared memory)
+[G00163][TA 2] Checking rubric for Q4 (current 'G')
+[G00164][PARENT] Detected rubric change. Saving rubric to file...
+[G00165][TA 2] Rubric for Q4 unchanged (still 'G')
+[G00166][TA 2] Checking rubric for Q5 (current 'H')
+[G00167][TA 0] Finished Q2 for student 0003
+[G00168][TA 0] Marking Q3 for student 0003 (rubric 'H')
+[G00169][TA 1] Finished Q2 for student 0003
+[G00170][TA 1] Marking Q3 for student 0003 (rubric 'H')
+[G00171][TA 2] Correcting rubric Q5: H -> I (in shared memory)
+[G00172][TA 2] Marking Q3 for student 0003 (rubric 'H')
+[G00173][PARENT] Detected rubric change. Saving rubric to file...
+[G00174][TA 1] Finished Q3 for student 0003
+[G00175][TA 1] Marking Q4 for student 0003 (rubric 'G')
+[G00176][TA 0] Finished Q3 for student 0003
+[G00177][TA 0] Marking Q4 for student 0003 (rubric 'G')
+[G00178][TA 2] Finished Q3 for student 0003
+[G00179][TA 2] Marking Q4 for student 0003 (rubric 'G')
+[G00180][TA 0] Finished Q4 for student 0003
+[G00181][TA 0] All questions for student 0003 appear done.
+[G00182][TA 0] Waiting for next exam...
+[G00183][PARENT] Loaded exam 04 from data/exams/exam04.txt, student 0004
+[G00184][TA 0] Starting work on student 0004
+[G00185][TA 0] Checking rubric for Q1 (current 'E')
+[G00186][TA 1] Finished Q4 for student 0004
+[G00187][TA 1] Marking Q1 for student 0004 (rubric 'E')
+[G00188][TA 0] Correcting rubric Q1: E -> F (in shared memory)
+[G00189][TA 0] Checking rubric for Q2 (current 'G')
+[G00190][PARENT] Detected rubric change. Saving rubric to file...
+[G00191][TA 2] Finished Q4 for student 0004
+[G00192][TA 2] Marking Q1 for student 0004 (rubric 'F')
+[G00193][TA 0] Rubric for Q2 unchanged (still 'G')
+[G00194][TA 0] Checking rubric for Q3 (current 'H')
+[G00195][TA 0] Rubric for Q3 unchanged (still 'H')
+[G00196][TA 0] Checking rubric for Q4 (current 'G')
+[G00197][TA 1] Finished Q1 for student 0004
+[G00198][TA 1] Marking Q2 for student 0004 (rubric 'G')
+[G00199][TA 0] Correcting rubric Q4: G -> H (in shared memory)
+[G00200][TA 0] Checking rubric for Q5 (current 'I')
+[G00201][PARENT] Detected rubric change. Saving rubric to file...
+[G00202][TA 2] Finished Q1 for student 0004
+[G00203][TA 2] Marking Q2 for student 0004 (rubric 'G')
+[G00204][TA 0] Rubric for Q5 unchanged (still 'I')
+[G00205][TA 0] Marking Q2 for student 0004 (rubric 'G')
+[G00206][TA 1] Finished Q2 for student 0004
+[G00207][TA 1] Marking Q3 for student 0004 (rubric 'H')
+[G00208][TA 2] Finished Q2 for student 0004
+[G00209][TA 2] Marking Q3 for student 0004 (rubric 'H')
+[G00210][TA 0] Finished Q2 for student 0004
+[G00211][TA 0] Marking Q3 for student 0004 (rubric 'H')
+[G00212][TA 1] Finished Q3 for student 0004
+[G00213][TA 1] Marking Q5 for student 0004 (rubric 'I')
+[G00214][TA 2] Finished Q3 for student 0004
+[G00215][TA 2] Marking Q5 for student 0004 (rubric 'I')
+[G00216][TA 0] Finished Q3 for student 0004
+[G00217][TA 0] Marking Q5 for student 0004 (rubric 'I')
+[G00218][TA 1] Finished Q5 for student 0004
+[G00219][TA 1] All questions for student 0004 appear done.
+[G00220][TA 1] Waiting for next exam...
+[G00221][PARENT] Loaded exam 05 from data/exams/exam05.txt, student 0005
+[G00222][TA 1] Starting work on student 0005
+[G00223][TA 1] Checking rubric for Q1 (current 'F')
+[G00224][TA 2] Finished Q5 for student 0005
+[G00225][TA 2] Marking Q1 for student 0005 (rubric 'F')
+[G00226][TA 1] Correcting rubric Q1: F -> G (in shared memory)
+[G00227][TA 1] Checking rubric for Q2 (current 'G')
+[G00228][PARENT] Detected rubric change. Saving rubric to file...
+[G00229][TA 0] Finished Q5 for student 0005
+[G00230][TA 0] Marking Q1 for student 0005 (rubric 'G')
+[G00231][TA 1] Correcting rubric Q2: G -> H (in shared memory)
+[G00232][TA 1] Checking rubric for Q3 (current 'H')
+[G00233][TA 2] Finished Q1 for student 0005
+[G00234][TA 2] Marking Q2 for student 0005 (rubric 'H')
+[G00235][PARENT] Detected rubric change. Saving rubric to file...
+[G00236][TA 1] Rubric for Q3 unchanged (still 'H')
+[G00237][TA 1] Checking rubric for Q4 (current 'H')
+[G00238][TA 2] Finished Q2 for student 0005
+[G00239][TA 2] Marking Q3 for student 0005 (rubric 'H')
+[G00240][TA 1] Correcting rubric Q4: H -> I (in shared memory)
+[G00241][TA 1] Checking rubric for Q5 (current 'I')
+[G00242][TA 0] Finished Q1 for student 0005
+[G00243][TA 0] Marking Q3 for student 0005 (rubric 'H')
+[G00244][PARENT] Detected rubric change. Saving rubric to file...
+[G00245][TA 2] Finished Q3 for student 0005
+[G00246][TA 2] Marking Q4 for student 0005 (rubric 'I')
+[G00247][TA 1] Correcting rubric Q5: I -> J (in shared memory)
+[G00248][TA 1] Marking Q4 for student 0005 (rubric 'I')
+[G00249][PARENT] Detected rubric change. Saving rubric to file...
+[G00250][TA 0] Finished Q3 for student 0005
+[G00251][TA 0] Marking Q4 for student 0005 (rubric 'I')
+[G00252][TA 2] Finished Q4 for student 0005
+[G00253][TA 2] All questions for student 0005 appear done.
+[G00254][TA 2] Waiting for next exam...
+[G00255][TA 1] Finished Q4 for student 0005
+[G00256][TA 1] All questions for student 0005 appear done.
+[G00257][TA 1] Waiting for next exam...
+[G00258][PARENT] Loaded exam 06 from data/exams/exam06.txt, student 0006
+[G00259][TA 2] Starting work on student 0006
+[G00260][TA 2] Checking rubric for Q1 (current 'G')
+[G00261][TA 1] Starting work on student 0006
+[G00262][TA 1] Checking rubric for Q1 (current 'G')
+[G00263][TA 0] Finished Q4 for student 0006
+[G00264][TA 0] Marking Q1 for student 0006 (rubric 'G')
+[G00265][TA 1] Rubric for Q1 unchanged (still 'G')
+[G00266][TA 1] Checking rubric for Q2 (current 'H')
+[G00267][TA 2] Correcting rubric Q1: G -> H (in shared memory)
+[G00268][TA 2] Checking rubric for Q2 (current 'H')
+[G00269][PARENT] Detected rubric change. Saving rubric to file...
+[G00270][TA 2] Rubric for Q2 unchanged (still 'H')
+[G00271][TA 2] Checking rubric for Q3 (current 'H')
+[G00272][TA 1] Correcting rubric Q2: H -> I (in shared memory)
+[G00273][TA 1] Checking rubric for Q3 (current 'H')
+[G00274][PARENT] Detected rubric change. Saving rubric to file...
+[G00275][TA 0] Finished Q1 for student 0006
+[G00276][TA 0] Marking Q2 for student 0006 (rubric 'I')
+[G00277][TA 2] Correcting rubric Q3: H -> I (in shared memory)
+[G00278][TA 2] Checking rubric for Q4 (current 'I')
+[G00279][TA 1] Rubric for Q3 unchanged (still 'I')
+[G00280][TA 1] Checking rubric for Q4 (current 'I')
+[G00281][PARENT] Detected rubric change. Saving rubric to file...
+[G00282][TA 2] Rubric for Q4 unchanged (still 'I')
+[G00283][TA 2] Checking rubric for Q5 (current 'J')
+[G00284][TA 1] Correcting rubric Q4: I -> J (in shared memory)
+[G00285][TA 1] Checking rubric for Q5 (current 'J')
+[G00286][PARENT] Detected rubric change. Saving rubric to file...
+[G00287][TA 0] Finished Q2 for student 0006
+[G00288][TA 0] Marking Q3 for student 0006 (rubric 'I')
+[G00289][TA 2] Rubric for Q5 unchanged (still 'J')
+[G00290][TA 2] Marking Q3 for student 0006 (rubric 'I')
+[G00291][TA 1] Correcting rubric Q5: J -> K (in shared memory)
+[G00292][TA 1] Marking Q3 for student 0006 (rubric 'I')
+[G00293][PARENT] Detected rubric change. Saving rubric to file...
+[G00294][TA 1] Finished Q3 for student 0006
+[G00295][TA 1] Marking Q5 for student 0006 (rubric 'K')
+[G00296][TA 2] Finished Q3 for student 0006
+[G00297][TA 2] Marking Q5 for student 0006 (rubric 'K')
+[G00298][TA 0] Finished Q3 for student 0006
+[G00299][TA 0] Marking Q5 for student 0006 (rubric 'K')
+[G00300][TA 1] Finished Q5 for student 0006
+[G00301][TA 1] All questions for student 0006 appear done.
+[G00302][TA 1] Waiting for next exam...
+[G00303][PARENT] Loaded exam 07 from data/exams/exam07.txt, student 0007
+[G00304][TA 1] Starting work on student 0007
+[G00305][TA 1] Checking rubric for Q1 (current 'H')
+[G00306][TA 2] Finished Q5 for student 0007
+[G00307][TA 2] Marking Q1 for student 0007 (rubric 'H')
+[G00308][TA 0] Finished Q5 for student 0007
+[G00309][TA 0] Marking Q1 for student 0007 (rubric 'H')
+[G00310][TA 1] Correcting rubric Q1: H -> I (in shared memory)
+[G00311][TA 1] Checking rubric for Q2 (current 'I')
+[G00312][PARENT] Detected rubric change. Saving rubric to file...
+[G00313][TA 2] Finished Q1 for student 0007
+[G00314][TA 2] Marking Q2 for student 0007 (rubric 'I')
+[G00315][TA 0] Finished Q1 for student 0007
+[G00316][TA 0] Marking Q2 for student 0007 (rubric 'I')
+[G00317][TA 1] Rubric for Q2 unchanged (still 'I')
+[G00318][TA 1] Checking rubric for Q3 (current 'I')
+[G00319][TA 2] Finished Q2 for student 0007
+[G00320][TA 2] Marking Q3 for student 0007 (rubric 'I')
+[G00321][TA 1] Correcting rubric Q3: I -> J (in shared memory)
+[G00322][TA 1] Checking rubric for Q4 (current 'J')
+[G00323][PARENT] Detected rubric change. Saving rubric to file...
+[G00324][TA 0] Finished Q2 for student 0007
+[G00325][TA 0] Marking Q3 for student 0007 (rubric 'J')
+[G00326][TA 1] Correcting rubric Q4: J -> K (in shared memory)
+[G00327][TA 1] Checking rubric for Q5 (current 'K')
+[G00328][PARENT] Detected rubric change. Saving rubric to file...
+[G00329][TA 2] Finished Q3 for student 0007
+[G00330][TA 2] Marking Q4 for student 0007 (rubric 'K')
+[G00331][TA 1] Rubric for Q5 unchanged (still 'K')
+[G00332][TA 1] Marking Q4 for student 0007 (rubric 'K')
+[G00333][TA 0] Finished Q3 for student 0007
+[G00334][TA 0] Marking Q4 for student 0007 (rubric 'K')
+[G00335][TA 2] Finished Q4 for student 0007
+[G00336][TA 2] All questions for student 0007 appear done.
+[G00337][TA 2] Waiting for next exam...
+[G00338][PARENT] Loaded exam 08 from data/exams/exam08.txt, student 0008
+[G00339][TA 2] Starting work on student 0008
+[G00340][TA 2] Checking rubric for Q1 (current 'I')
+[G00341][TA 1] Finished Q4 for student 0008
+[G00342][TA 1] Marking Q1 for student 0008 (rubric 'I')
+[G00343][TA 2] Rubric for Q1 unchanged (still 'I')
+[G00344][TA 2] Checking rubric for Q2 (current 'I')
+[G00345][TA 0] Finished Q4 for student 0008
+[G00346][TA 0] Marking Q1 for student 0008 (rubric 'I')
+[G00347][TA 1] Finished Q1 for student 0008
+[G00348][TA 1] Marking Q2 for student 0008 (rubric 'I')
+[G00349][TA 2] Rubric for Q2 unchanged (still 'I')
+[G00350][TA 2] Checking rubric for Q3 (current 'J')
+[G00351][TA 0] Finished Q1 for student 0008
+[G00352][TA 0] Marking Q2 for student 0008 (rubric 'I')
+[G00353][TA 2] Correcting rubric Q3: J -> K (in shared memory)
+[G00354][TA 2] Checking rubric for Q4 (current 'K')
+[G00355][PARENT] Detected rubric change. Saving rubric to file...
+[G00356][TA 1] Finished Q2 for student 0008
+[G00357][TA 1] Marking Q3 for student 0008 (rubric 'K')
+[G00358][TA 0] Finished Q2 for student 0008
+[G00359][TA 0] Marking Q3 for student 0008 (rubric 'K')
+[G00360][TA 2] Rubric for Q4 unchanged (still 'K')
+[G00361][TA 2] Checking rubric for Q5 (current 'K')
+[G00362][TA 1] Finished Q3 for student 0008
+[G00363][TA 1] Marking Q5 for student 0008 (rubric 'K')
+[G00364][TA 2] Rubric for Q5 unchanged (still 'K')
+[G00365][TA 2] Marking Q5 for student 0008 (rubric 'K')
+[G00366][TA 0] Finished Q3 for student 0008
+[G00367][TA 0] Marking Q5 for student 0008 (rubric 'K')
+[G00368][TA 2] Finished Q5 for student 0008
+[G00369][TA 2] All questions for student 0008 appear done.
+[G00370][TA 2] Waiting for next exam...
+[G00371][PARENT] Loaded exam 09 from data/exams/exam09.txt, student 0009
+[G00372][TA 2] Starting work on student 0009
+[G00373][TA 2] Checking rubric for Q1 (current 'I')
+[G00374][TA 1] Finished Q5 for student 0009
+[G00375][TA 1] Marking Q1 for student 0009 (rubric 'I')
+[G00376][TA 2] Rubric for Q1 unchanged (still 'I')
+[G00377][TA 2] Checking rubric for Q2 (current 'I')
+[G00378][TA 0] Finished Q5 for student 0009
+[G00379][TA 0] Marking Q1 for student 0009 (rubric 'I')
+[G00380][TA 2] Correcting rubric Q2: I -> J (in shared memory)
+[G00381][TA 2] Checking rubric for Q3 (current 'K')
+[G00382][PARENT] Detected rubric change. Saving rubric to file...
+[G00383][TA 0] Finished Q1 for student 0009
+[G00384][TA 0] Marking Q2 for student 0009 (rubric 'J')
+[G00385][TA 1] Finished Q1 for student 0009
+[G00386][TA 1] Marking Q2 for student 0009 (rubric 'J')
+[G00387][TA 2] Correcting rubric Q3: K -> L (in shared memory)
+[G00388][TA 2] Checking rubric for Q4 (current 'K')
+[G00389][PARENT] Detected rubric change. Saving rubric to file...
+[G00390][TA 0] Finished Q2 for student 0009
+[G00391][TA 0] Marking Q3 for student 0009 (rubric 'L')
+[G00392][TA 2] Rubric for Q4 unchanged (still 'K')
+[G00393][TA 2] Checking rubric for Q5 (current 'K')
+[G00394][TA 2] Rubric for Q5 unchanged (still 'K')
+[G00395][TA 2] Marking Q3 for student 0009 (rubric 'L')
+[G00396][TA 1] Finished Q2 for student 0009
+[G00397][TA 1] Marking Q3 for student 0009 (rubric 'L')
+[G00398][TA 0] Finished Q3 for student 0009
+[G00399][TA 0] Marking Q4 for student 0009 (rubric 'K')
+[G00400][TA 2] Finished Q3 for student 0009
+[G00401][TA 2] Marking Q4 for student 0009 (rubric 'K')
+[G00402][TA 1] Finished Q3 for student 0009
+[G00403][TA 1] Marking Q4 for student 0009 (rubric 'K')
+[G00404][TA 0] Finished Q4 for student 0009
+[G00405][TA 0] All questions for student 0009 appear done.
+[G00406][TA 0] Waiting for next exam...
+[G00407][PARENT] Loaded exam 10 from data/exams/exam10.txt, student 0010
+[G00408][TA 0] Starting work on student 0010
+[G00409][TA 0] Checking rubric for Q1 (current 'I')
+[G00410][TA 1] Finished Q4 for student 0010
+[G00411][TA 1] Marking Q1 for student 0010 (rubric 'I')
+[G00412][TA 2] Finished Q4 for student 0010
+[G00413][TA 2] Marking Q1 for student 0010 (rubric 'I')
+[G00414][TA 0] Rubric for Q1 unchanged (still 'I')
+[G00415][TA 0] Checking rubric for Q2 (current 'J')
+[G00416][TA 2] Finished Q1 for student 0010
+[G00417][TA 2] Marking Q2 for student 0010 (rubric 'J')
+[G00418][TA 0] Correcting rubric Q2: J -> K (in shared memory)
+[G00419][TA 0] Checking rubric for Q3 (current 'L')
+[G00420][PARENT] Detected rubric change. Saving rubric to file...
+[G00421][TA 1] Finished Q1 for student 0010
+[G00422][TA 1] Marking Q2 for student 0010 (rubric 'K')
+[G00423][TA 2] Finished Q2 for student 0010
+[G00424][TA 2] Marking Q3 for student 0010 (rubric 'L')
+[G00425][TA 0] Rubric for Q3 unchanged (still 'L')
+[G00426][TA 0] Checking rubric for Q4 (current 'K')
+[G00427][TA 1] Finished Q2 for student 0010
+[G00428][TA 1] Marking Q3 for student 0010 (rubric 'L')
+[G00429][TA 0] Rubric for Q4 unchanged (still 'K')
+[G00430][TA 0] Checking rubric for Q5 (current 'K')
+[G00431][TA 2] Finished Q3 for student 0010
+[G00432][TA 2] Marking Q5 for student 0010 (rubric 'K')
+[G00433][TA 0] Rubric for Q5 unchanged (still 'K')
+[G00434][TA 0] Marking Q5 for student 0010 (rubric 'K')
+[G00435][TA 2] Finished Q5 for student 0010
+[G00436][TA 2] All questions for student 0010 appear done.
+[G00437][TA 2] Waiting for next exam...
+[G00438][PARENT] Loaded exam 11 from data/exams/exam11.txt, student 0011
+[G00439][TA 2] Starting work on student 0011
+[G00440][TA 2] Checking rubric for Q1 (current 'I')
+[G00441][TA 1] Finished Q3 for student 0011
+[G00442][TA 1] Marking Q1 for student 0011 (rubric 'I')
+[G00443][TA 0] Finished Q5 for student 0011
+[G00444][TA 0] Marking Q1 for student 0011 (rubric 'I')
+[G00445][TA 2] Rubric for Q1 unchanged (still 'I')
+[G00446][TA 2] Checking rubric for Q2 (current 'K')
+[G00447][TA 1] Finished Q1 for student 0011
+[G00448][TA 1] Marking Q2 for student 0011 (rubric 'K')
+[G00449][TA 2] Correcting rubric Q2: K -> L (in shared memory)
+[G00450][TA 2] Checking rubric for Q3 (current 'L')
+[G00451][PARENT] Detected rubric change. Saving rubric to file...
+[G00452][TA 0] Finished Q1 for student 0011
+[G00453][TA 0] Marking Q2 for student 0011 (rubric 'L')
+[G00454][TA 2] Rubric for Q3 unchanged (still 'L')
+[G00455][TA 2] Checking rubric for Q4 (current 'K')
+[G00456][TA 2] Correcting rubric Q4: K -> L (in shared memory)
+[G00457][TA 2] Checking rubric for Q5 (current 'K')
+[G00458][TA 1] Finished Q2 for student 0011
+[G00459][TA 1] Marking Q4 for student 0011 (rubric 'L')
+[G00460][PARENT] Detected rubric change. Saving rubric to file...
+[G00461][TA 0] Finished Q2 for student 0011
+[G00462][TA 0] Marking Q4 for student 0011 (rubric 'L')
+[G00463][TA 2] Correcting rubric Q5: K -> L (in shared memory)
+[G00464][TA 2] Marking Q4 for student 0011 (rubric 'L')
+[G00465][PARENT] Detected rubric change. Saving rubric to file...
+[G00466][TA 1] Finished Q4 for student 0011
+[G00467][TA 1] All questions for student 0011 appear done.
+[G00468][TA 1] Waiting for next exam...
+[G00469][PARENT] Loaded exam 12 from data/exams/exam12.txt, student 0012
+[G00470][TA 1] Starting work on student 0012
+[G00471][TA 1] Checking rubric for Q1 (current 'I')
+[G00472][TA 2] Finished Q4 for student 0012
+[G00473][TA 2] Marking Q1 for student 0012 (rubric 'I')
+[G00474][TA 0] Finished Q4 for student 0012
+[G00475][TA 0] Marking Q1 for student 0012 (rubric 'I')
+[G00476][TA 1] Correcting rubric Q1: I -> J (in shared memory)
+[G00477][TA 1] Checking rubric for Q2 (current 'L')
+[G00478][PARENT] Detected rubric change. Saving rubric to file...
+[G00479][TA 1] Correcting rubric Q2: L -> M (in shared memory)
+[G00480][TA 1] Checking rubric for Q3 (current 'L')
+[G00481][PARENT] Detected rubric change. Saving rubric to file...
+[G00482][TA 2] Finished Q1 for student 0012
+[G00483][TA 2] Marking Q2 for student 0012 (rubric 'M')
+[G00484][TA 0] Finished Q1 for student 0012
+[G00485][TA 0] Marking Q2 for student 0012 (rubric 'M')
+[G00486][TA 1] Correcting rubric Q3: L -> M (in shared memory)
+[G00487][TA 1] Checking rubric for Q4 (current 'L')
+[G00488][PARENT] Detected rubric change. Saving rubric to file...
+[G00489][TA 1] Rubric for Q4 unchanged (still 'L')
+[G00490][TA 1] Checking rubric for Q5 (current 'L')
+[G00491][TA 1] Correcting rubric Q5: L -> M (in shared memory)
+[G00492][TA 1] Marking Q2 for student 0012 (rubric 'M')
+[G00493][PARENT] Detected rubric change. Saving rubric to file...
+[G00494][TA 2] Finished Q2 for student 0012
+[G00495][TA 2] Marking Q3 for student 0012 (rubric 'M')
+[G00496][TA 0] Finished Q2 for student 0012
+[G00497][TA 0] Marking Q3 for student 0012 (rubric 'M')
+[G00498][TA 0] Finished Q3 for student 0012
+[G00499][TA 0] Marking Q5 for student 0012 (rubric 'M')
+[G00500][TA 2] Finished Q3 for student 0012
+[G00501][TA 2] Marking Q5 for student 0012 (rubric 'M')
+[G00502][TA 1] Finished Q2 for student 0012
+[G00503][TA 1] Marking Q5 for student 0012 (rubric 'M')
+[G00504][TA 0] Finished Q5 for student 0012
+[G00505][TA 0] All questions for student 0012 appear done.
+[G00506][TA 0] Waiting for next exam...
+[G00507][PARENT] Loaded exam 13 from data/exams/exam13.txt, student 0013
+[G00508][TA 1] Finished Q5 for student 0013
+[G00509][TA 1] Marking Q1 for student 0013 (rubric 'J')
+[G00510][TA 0] Starting work on student 0013
+[G00511][TA 0] Checking rubric for Q1 (current 'J')
+[G00512][TA 2] Finished Q5 for student 0013
+[G00513][TA 2] Marking Q1 for student 0013 (rubric 'J')
+[G00514][TA 0] Correcting rubric Q1: J -> K (in shared memory)
+[G00515][TA 0] Checking rubric for Q2 (current 'M')
+[G00516][PARENT] Detected rubric change. Saving rubric to file...
+[G00517][TA 1] Finished Q1 for student 0013
+[G00518][TA 1] Marking Q2 for student 0013 (rubric 'M')
+[G00519][TA 0] Rubric for Q2 unchanged (still 'M')
+[G00520][TA 0] Checking rubric for Q3 (current 'M')
+[G00521][TA 2] Finished Q1 for student 0013
+[G00522][TA 2] Marking Q2 for student 0013 (rubric 'M')
+[G00523][TA 0] Correcting rubric Q3: M -> N (in shared memory)
+[G00524][TA 0] Checking rubric for Q4 (current 'L')
 [G00525][PARENT] Detected rubric change. Saving rubric to file...
-[G00526][TA 2] Finished Q1 for student 0013
-[G00527][TA 2] Marking Q2 for student 0013 (rubric 'K')
-[G00528][TA 0] Correcting rubric Q4: N -> O (in shared memory)
-[G00529][TA 0] Checking rubric for Q5 (current 'J')
-[G00530][TA 1] Rubric for Q4 unchanged (still 'O')
-[G00531][TA 1] Checking rubric for Q5 (current 'J')
+[G00526][TA 1] Finished Q2 for student 0013
+[G00527][TA 1] Marking Q3 for student 0013 (rubric 'N')
+[G00528][TA 2] Finished Q2 for student 0013
+[G00529][TA 2] Marking Q3 for student 0013 (rubric 'N')
+[G00530][TA 0] Correcting rubric Q4: L -> M (in shared memory)
+[G00531][TA 0] Checking rubric for Q5 (current 'M')
 [G00532][PARENT] Detected rubric change. Saving rubric to file...
-[G00533][TA 0] Correcting rubric Q5: J -> K (in shared memory)
-[G00534][TA 0] Marking Q2 for student 0013 (rubric 'K')
+[G00533][TA 0] Correcting rubric Q5: M -> N (in shared memory)
+[G00534][TA 0] Marking Q3 for student 0013 (rubric 'N')
 [G00535][PARENT] Detected rubric change. Saving rubric to file...
-[G00536][TA 1] Correcting rubric Q5: K -> L (in shared memory)
-[G00537][TA 1] Marking Q2 for student 0013 (rubric 'K')
-[G00538][TA 2] Finished Q2 for student 0013
-[G00539][TA 2] Marking Q3 for student 0013 (rubric 'P')
-[G00540][PARENT] Detected rubric change. Saving rubric to file...
-[G00541][TA 0] Finished Q2 for student 0013
-[G00542][TA 0] Marking Q3 for student 0013 (rubric 'P')
-[G00543][TA 1] Finished Q2 for student 0013
-[G00544][TA 1] Marking Q3 for student 0013 (rubric 'P')
-[G00545][TA 2] Finished Q3 for student 0013
-[G00546][TA 2] Marking Q5 for student 0013 (rubric 'L')
-[G00547][TA 0] Finished Q3 for student 0013
-[G00548][TA 0] Marking Q5 for student 0013 (rubric 'L')
-[G00549][TA 1] Finished Q3 for student 0013
-[G00550][TA 1] Marking Q5 for student 0013 (rubric 'L')
-[G00551][TA 2] Finished Q5 for student 0013
-[G00552][TA 2] All questions for student 0013 appear done.
-[G00553][TA 2] Waiting for next exam...
-[G00554][PARENT] Loaded exam 14 from data/exams/exam14.txt, student 0014
-[G00555][TA 2] Starting work on student 0014
-[G00556][TA 2] Checking rubric for Q1 (current 'M')
-[G00557][TA 0] Finished Q5 for student 0014
-[G00558][TA 0] Marking Q1 for student 0014 (rubric 'M')
-[G00559][TA 2] Rubric for Q1 unchanged (still 'M')
-[G00560][TA 2] Checking rubric for Q2 (current 'K')
-[G00561][TA 1] Finished Q5 for student 0014
-[G00562][TA 1] Marking Q1 for student 0014 (rubric 'M')
-[G00563][TA 2] Correcting rubric Q2: K -> L (in shared memory)
-[G00564][TA 2] Checking rubric for Q3 (current 'P')
-[G00565][PARENT] Detected rubric change. Saving rubric to file...
-[G00566][TA 2] Correcting rubric Q3: P -> Q (in shared memory)
-[G00567][TA 2] Checking rubric for Q4 (current 'O')
-[G00568][TA 1] Finished Q1 for student 0014
-[G00569][TA 1] Marking Q2 for student 0014 (rubric 'L')
-[G00570][PARENT] Detected rubric change. Saving rubric to file...
-[G00571][TA 0] Finished Q1 for student 0014
-[G00572][TA 0] Marking Q2 for student 0014 (rubric 'L')
-[G00573][TA 2] Rubric for Q4 unchanged (still 'O')
-[G00574][TA 2] Checking rubric for Q5 (current 'L')
-[G00575][TA 1] Finished Q2 for student 0014
-[G00576][TA 1] Marking Q3 for student 0014 (rubric 'Q')
-[G00577][TA 2] Rubric for Q5 unchanged (still 'L')
-[G00578][TA 2] Marking Q3 for student 0014 (rubric 'Q')
-[G00579][TA 0] Finished Q2 for student 0014
-[G00580][TA 0] Marking Q3 for student 0014 (rubric 'Q')
-[G00581][TA 1] Finished Q3 for student 0014
-[G00582][TA 1] Marking Q4 for student 0014 (rubric 'O')
-[G00583][TA 0] Finished Q3 for student 0014
-[G00584][TA 0] Marking Q4 for student 0014 (rubric 'O')
-[G00585][TA 2] Finished Q3 for student 0014
-[G00586][TA 2] Marking Q4 for student 0014 (rubric 'O')
-[G00587][TA 1] Finished Q4 for student 0014
-[G00588][TA 1] All questions for student 0014 appear done.
-[G00589][TA 1] Waiting for next exam...
-[G00590][PARENT] Loaded exam 15 from data/exams/exam15.txt, student 0015
-[G00591][TA 1] Starting work on student 0015
-[G00592][TA 1] Checking rubric for Q1 (current 'M')
-[G00593][TA 0] Finished Q4 for student 0015
-[G00594][TA 0] Marking Q1 for student 0015 (rubric 'M')
-[G00595][TA 2] Finished Q4 for student 0015
-[G00596][TA 2] Marking Q1 for student 0015 (rubric 'M')
-[G00597][TA 1] Correcting rubric Q1: M -> N (in shared memory)
-[G00598][TA 1] Checking rubric for Q2 (current 'L')
+[G00536][TA 1] Finished Q3 for student 0013
+[G00537][TA 1] Marking Q4 for student 0013 (rubric 'M')
+[G00538][TA 2] Finished Q3 for student 0013
+[G00539][TA 2] Marking Q4 for student 0013 (rubric 'M')
+[G00540][TA 0] Finished Q3 for student 0013
+[G00541][TA 0] Marking Q4 for student 0013 (rubric 'M')
+[G00542][TA 1] Finished Q4 for student 0013
+[G00543][TA 1] All questions for student 0013 appear done.
+[G00544][TA 1] Waiting for next exam...
+[G00545][PARENT] Loaded exam 14 from data/exams/exam14.txt, student 0014
+[G00546][TA 1] Starting work on student 0014
+[G00547][TA 1] Checking rubric for Q1 (current 'K')
+[G00548][TA 2] Finished Q4 for student 0014
+[G00549][TA 2] Marking Q1 for student 0014 (rubric 'K')
+[G00550][TA 0] Finished Q4 for student 0014
+[G00551][TA 0] Marking Q1 for student 0014 (rubric 'K')
+[G00552][TA 1] Correcting rubric Q1: K -> L (in shared memory)
+[G00553][TA 1] Checking rubric for Q2 (current 'M')
+[G00554][PARENT] Detected rubric change. Saving rubric to file...
+[G00555][TA 1] Correcting rubric Q2: M -> N (in shared memory)
+[G00556][TA 1] Checking rubric for Q3 (current 'N')
+[G00557][TA 2] Finished Q1 for student 0014
+[G00558][TA 2] Marking Q2 for student 0014 (rubric 'N')
+[G00559][TA 0] Finished Q1 for student 0014
+[G00560][TA 0] Marking Q2 for student 0014 (rubric 'N')
+[G00561][PARENT] Detected rubric change. Saving rubric to file...
+[G00562][TA 1] Rubric for Q3 unchanged (still 'N')
+[G00563][TA 1] Checking rubric for Q4 (current 'M')
+[G00564][TA 1] Rubric for Q4 unchanged (still 'M')
+[G00565][TA 1] Checking rubric for Q5 (current 'N')
+[G00566][TA 2] Finished Q2 for student 0014
+[G00567][TA 2] Marking Q3 for student 0014 (rubric 'N')
+[G00568][TA 0] Finished Q2 for student 0014
+[G00569][TA 0] Marking Q3 for student 0014 (rubric 'N')
+[G00570][TA 1] Correcting rubric Q5: N -> O (in shared memory)
+[G00571][TA 1] Marking Q3 for student 0014 (rubric 'N')
+[G00572][PARENT] Detected rubric change. Saving rubric to file...
+[G00573][TA 2] Finished Q3 for student 0014
+[G00574][TA 2] Marking Q5 for student 0014 (rubric 'O')
+[G00575][TA 0] Finished Q3 for student 0014
+[G00576][TA 0] Marking Q5 for student 0014 (rubric 'O')
+[G00577][TA 2] Finished Q5 for student 0014
+[G00578][TA 2] All questions for student 0014 appear done.
+[G00579][TA 2] Waiting for next exam...
+[G00580][PARENT] Loaded exam 15 from data/exams/exam15.txt, student 0015
+[G00581][TA 2] Starting work on student 0015
+[G00582][TA 2] Checking rubric for Q1 (current 'L')
+[G00583][TA 1] Finished Q3 for student 0015
+[G00584][TA 1] Marking Q1 for student 0015 (rubric 'L')
+[G00585][TA 2] Rubric for Q1 unchanged (still 'L')
+[G00586][TA 2] Checking rubric for Q2 (current 'N')
+[G00587][TA 2] Correcting rubric Q2: N -> O (in shared memory)
+[G00588][TA 2] Checking rubric for Q3 (current 'N')
+[G00589][TA 0] Finished Q5 for student 0015
+[G00590][TA 0] Marking Q1 for student 0015 (rubric 'L')
+[G00591][PARENT] Detected rubric change. Saving rubric to file...
+[G00592][TA 1] Finished Q1 for student 0015
+[G00593][TA 1] Marking Q2 for student 0015 (rubric 'O')
+[G00594][TA 2] Correcting rubric Q3: N -> O (in shared memory)
+[G00595][TA 2] Checking rubric for Q4 (current 'M')
+[G00596][PARENT] Detected rubric change. Saving rubric to file...
+[G00597][TA 2] Correcting rubric Q4: M -> N (in shared memory)
+[G00598][TA 2] Checking rubric for Q5 (current 'O')
 [G00599][PARENT] Detected rubric change. Saving rubric to file...
-[G00600][TA 1] Rubric for Q2 unchanged (still 'L')
-[G00601][TA 1] Checking rubric for Q3 (current 'Q')
-[G00602][TA 2] Finished Q1 for student 0015
-[G00603][TA 2] Marking Q2 for student 0015 (rubric 'L')
-[G00604][TA 0] Finished Q1 for student 0015
-[G00605][TA 0] Marking Q2 for student 0015 (rubric 'L')
-[G00606][TA 1] Rubric for Q3 unchanged (still 'Q')
-[G00607][TA 1] Checking rubric for Q4 (current 'O')
-[G00608][TA 1] Correcting rubric Q4: O -> P (in shared memory)
-[G00609][TA 1] Checking rubric for Q5 (current 'L')
-[G00610][PARENT] Detected rubric change. Saving rubric to file...
-[G00611][TA 2] Finished Q2 for student 0015
-[G00612][TA 2] Marking Q3 for student 0015 (rubric 'Q')
-[G00613][TA 0] Finished Q2 for student 0015
-[G00614][TA 0] Marking Q3 for student 0015 (rubric 'Q')
-[G00615][TA 1] Correcting rubric Q5: L -> M (in shared memory)
-[G00616][TA 1] Marking Q3 for student 0015 (rubric 'Q')
-[G00617][PARENT] Detected rubric change. Saving rubric to file...
-[G00618][TA 2] Finished Q3 for student 0015
-[G00619][TA 2] Marking Q5 for student 0015 (rubric 'M')
-[G00620][TA 0] Finished Q3 for student 0015
-[G00621][TA 0] Marking Q5 for student 0015 (rubric 'M')
-[G00622][TA 1] Finished Q3 for student 0015
-[G00623][TA 1] Marking Q5 for student 0015 (rubric 'M')
-[G00624][TA 2] Finished Q5 for student 0015
-[G00625][TA 2] All questions for student 0015 appear done.
-[G00626][TA 2] Waiting for next exam...
-[G00627][PARENT] Loaded exam 16 from data/exams/exam16.txt, student 0016
-[G00628][TA 2] Starting work on student 0016
-[G00629][TA 2] Checking rubric for Q1 (current 'N')
-[G00630][TA 0] Finished Q5 for student 0016
-[G00631][TA 0] Marking Q1 for student 0016 (rubric 'N')
-[G00632][TA 1] Finished Q5 for student 0016
-[G00633][TA 1] Marking Q1 for student 0016 (rubric 'N')
-[G00634][TA 2] Correcting rubric Q1: N -> O (in shared memory)
-[G00635][TA 2] Checking rubric for Q2 (current 'L')
-[G00636][PARENT] Detected rubric change. Saving rubric to file...
-[G00637][TA 2] Correcting rubric Q2: L -> M (in shared memory)
-[G00638][TA 2] Checking rubric for Q3 (current 'Q')
-[G00639][PARENT] Detected rubric change. Saving rubric to file...
-[G00640][TA 0] Finished Q1 for student 0016
-[G00641][TA 0] Marking Q2 for student 0016 (rubric 'M')
-[G00642][TA 1] Finished Q1 for student 0016
-[G00643][TA 1] Marking Q2 for student 0016 (rubric 'M')
-[G00644][TA 2] Rubric for Q3 unchanged (still 'Q')
-[G00645][TA 2] Checking rubric for Q4 (current 'P')
-[G00646][TA 2] Correcting rubric Q4: P -> Q (in shared memory)
-[G00647][TA 2] Checking rubric for Q5 (current 'M')
-[G00648][PARENT] Detected rubric change. Saving rubric to file...
+[G00600][TA 1] Finished Q2 for student 0015
+[G00601][TA 1] Marking Q4 for student 0015 (rubric 'N')
+[G00602][TA 0] Finished Q1 for student 0015
+[G00603][TA 0] Marking Q4 for student 0015 (rubric 'N')
+[G00604][TA 2] Correcting rubric Q5: O -> P (in shared memory)
+[G00605][TA 2] Marking Q4 for student 0015 (rubric 'N')
+[G00606][PARENT] Detected rubric change. Saving rubric to file...
+[G00607][TA 0] Finished Q4 for student 0015
+[G00608][TA 0] All questions for student 0015 appear done.
+[G00609][TA 0] Waiting for next exam...
+[G00610][TA 1] Finished Q4 for student 0015
+[G00611][TA 1] All questions for student 0015 appear done.
+[G00612][TA 1] Waiting for next exam...
+[G00613][PARENT] Loaded exam 16 from data/exams/exam16.txt, student 0016
+[G00614][TA 0] Starting work on student 0016
+[G00615][TA 0] Checking rubric for Q1 (current 'L')
+[G00616][TA 1] Starting work on student 0016
+[G00617][TA 1] Checking rubric for Q1 (current 'L')
+[G00618][TA 0] Correcting rubric Q1: L -> M (in shared memory)
+[G00619][TA 0] Checking rubric for Q2 (current 'O')
+[G00620][PARENT] Detected rubric change. Saving rubric to file...
+[G00621][TA 1] Correcting rubric Q1: M -> N (in shared memory)
+[G00622][TA 1] Checking rubric for Q2 (current 'O')
+[G00623][PARENT] Detected rubric change. Saving rubric to file...
+[G00624][TA 2] Finished Q4 for student 0016
+[G00625][TA 2] Marking Q1 for student 0016 (rubric 'N')
+[G00626][TA 0] Correcting rubric Q2: O -> P (in shared memory)
+[G00627][TA 0] Checking rubric for Q3 (current 'O')
+[G00628][PARENT] Detected rubric change. Saving rubric to file...
+[G00629][TA 1] Rubric for Q2 unchanged (still 'P')
+[G00630][TA 1] Checking rubric for Q3 (current 'O')
+[G00631][TA 0] Correcting rubric Q3: O -> P (in shared memory)
+[G00632][TA 0] Checking rubric for Q4 (current 'N')
+[G00633][PARENT] Detected rubric change. Saving rubric to file...
+[G00634][TA 1] Rubric for Q3 unchanged (still 'P')
+[G00635][TA 1] Checking rubric for Q4 (current 'N')
+[G00636][TA 2] Finished Q1 for student 0016
+[G00637][TA 2] Marking Q2 for student 0016 (rubric 'P')
+[G00638][TA 0] Correcting rubric Q4: N -> O (in shared memory)
+[G00639][TA 0] Checking rubric for Q5 (current 'P')
+[G00640][PARENT] Detected rubric change. Saving rubric to file...
+[G00641][TA 1] Rubric for Q4 unchanged (still 'O')
+[G00642][TA 1] Checking rubric for Q5 (current 'P')
+[G00643][TA 0] Rubric for Q5 unchanged (still 'P')
+[G00644][TA 0] Marking Q2 for student 0016 (rubric 'P')
+[G00645][TA 1] Rubric for Q5 unchanged (still 'P')
+[G00646][TA 1] Marking Q2 for student 0016 (rubric 'P')
+[G00647][TA 2] Finished Q2 for student 0016
+[G00648][TA 2] Marking Q3 for student 0016 (rubric 'P')
 [G00649][TA 0] Finished Q2 for student 0016
-[G00650][TA 0] Marking Q3 for student 0016 (rubric 'Q')
+[G00650][TA 0] Marking Q3 for student 0016 (rubric 'P')
 [G00651][TA 1] Finished Q2 for student 0016
-[G00652][TA 1] Marking Q3 for student 0016 (rubric 'Q')
-[G00653][TA 2] Rubric for Q5 unchanged (still 'M')
-[G00654][TA 2] Marking Q3 for student 0016 (rubric 'Q')
+[G00652][TA 1] Marking Q3 for student 0016 (rubric 'P')
+[G00653][TA 2] Finished Q3 for student 0016
+[G00654][TA 2] Marking Q5 for student 0016 (rubric 'P')
 [G00655][TA 0] Finished Q3 for student 0016
-[G00656][TA 0] Marking Q4 for student 0016 (rubric 'Q')
+[G00656][TA 0] Marking Q5 for student 0016 (rubric 'P')
 [G00657][TA 1] Finished Q3 for student 0016
-[G00658][TA 1] Marking Q4 for student 0016 (rubric 'Q')
-[G00659][TA 2] Finished Q3 for student 0016
-[G00660][TA 2] Marking Q4 for student 0016 (rubric 'Q')
-[G00661][TA 1] Finished Q4 for student 0016
-[G00662][TA 1] All questions for student 0016 appear done.
-[G00663][TA 1] Waiting for next exam...
-[G00664][TA 0] Finished Q4 for student 0016
-[G00665][TA 0] All questions for student 0016 appear done.
-[G00666][TA 0] Waiting for next exam...
-[G00667][PARENT] Loaded exam 17 from data/exams/exam17.txt, student 0017
-[G00668][TA 1] Starting work on student 0017
-[G00669][TA 1] Checking rubric for Q1 (current 'O')
-[G00670][TA 0] Starting work on student 0017
-[G00671][TA 0] Checking rubric for Q1 (current 'O')
-[G00672][TA 1] Rubric for Q1 unchanged (still 'O')
-[G00673][TA 1] Checking rubric for Q2 (current 'M')
-[G00674][TA 0] Rubric for Q1 unchanged (still 'O')
-[G00675][TA 0] Checking rubric for Q2 (current 'M')
-[G00676][TA 2] Finished Q4 for student 0017
-[G00677][TA 2] Marking Q1 for student 0017 (rubric 'O')
-[G00678][TA 1] Rubric for Q2 unchanged (still 'M')
-[G00679][TA 1] Checking rubric for Q3 (current 'Q')
-[G00680][TA 0] Correcting rubric Q2: M -> N (in shared memory)
-[G00681][TA 0] Checking rubric for Q3 (current 'Q')
-[G00682][PARENT] Detected rubric change. Saving rubric to file...
-[G00683][TA 0] Rubric for Q3 unchanged (still 'Q')
-[G00684][TA 0] Checking rubric for Q4 (current 'Q')
-[G00685][TA 1] Correcting rubric Q3: Q -> R (in shared memory)
-[G00686][TA 1] Checking rubric for Q4 (current 'Q')
-[G00687][PARENT] Detected rubric change. Saving rubric to file...
-[G00688][TA 0] Correcting rubric Q4: Q -> R (in shared memory)
-[G00689][TA 0] Checking rubric for Q5 (current 'M')
-[G00690][PARENT] Detected rubric change. Saving rubric to file...
-[G00691][TA 2] Finished Q1 for student 0017
-[G00692][TA 2] Marking Q2 for student 0017 (rubric 'N')
-[G00693][TA 1] Correcting rubric Q4: R -> S (in shared memory)
-[G00694][TA 1] Checking rubric for Q5 (current 'M')
+[G00658][TA 1] Marking Q5 for student 0016 (rubric 'P')
+[G00659][TA 0] Finished Q5 for student 0016
+[G00660][TA 0] All questions for student 0016 appear done.
+[G00661][TA 0] Waiting for next exam...
+[G00662][TA 2] Finished Q5 for student 0016
+[G00663][TA 2] All questions for student 0016 appear done.
+[G00664][TA 2] Waiting for next exam...
+[G00665][PARENT] Loaded exam 17 from data/exams/exam17.txt, student 0017
+[G00666][TA 0] Starting work on student 0017
+[G00667][TA 0] Checking rubric for Q1 (current 'N')
+[G00668][TA 2] Starting work on student 0017
+[G00669][TA 2] Checking rubric for Q1 (current 'N')
+[G00670][TA 2] Rubric for Q1 unchanged (still 'N')
+[G00671][TA 2] Checking rubric for Q2 (current 'P')
+[G00672][TA 0] Rubric for Q1 unchanged (still 'N')
+[G00673][TA 0] Checking rubric for Q2 (current 'P')
+[G00674][TA 1] Finished Q5 for student 0017
+[G00675][TA 1] Marking Q1 for student 0017 (rubric 'N')
+[G00676][TA 2] Correcting rubric Q2: P -> Q (in shared memory)
+[G00677][TA 2] Checking rubric for Q3 (current 'P')
+[G00678][TA 0] Correcting rubric Q2: Q -> R (in shared memory)
+[G00679][TA 0] Checking rubric for Q3 (current 'P')
+[G00680][PARENT] Detected rubric change. Saving rubric to file...
+[G00681][TA 2] Rubric for Q3 unchanged (still 'P')
+[G00682][TA 2] Checking rubric for Q4 (current 'O')
+[G00683][TA 0] Correcting rubric Q3: P -> Q (in shared memory)
+[G00684][TA 0] Checking rubric for Q4 (current 'O')
+[G00685][PARENT] Detected rubric change. Saving rubric to file...
+[G00686][TA 2] Correcting rubric Q4: O -> P (in shared memory)
+[G00687][TA 2] Checking rubric for Q5 (current 'P')
+[G00688][PARENT] Detected rubric change. Saving rubric to file...
+[G00689][TA 1] Finished Q1 for student 0017
+[G00690][TA 1] Marking Q2 for student 0017 (rubric 'R')
+[G00691][TA 0] Rubric for Q4 unchanged (still 'P')
+[G00692][TA 0] Checking rubric for Q5 (current 'P')
+[G00693][TA 2] Correcting rubric Q5: P -> Q (in shared memory)
+[G00694][TA 2] Marking Q2 for student 0017 (rubric 'R')
 [G00695][PARENT] Detected rubric change. Saving rubric to file...
-[G00696][TA 0] Correcting rubric Q5: M -> N (in shared memory)
-[G00697][TA 0] Marking Q2 for student 0017 (rubric 'N')
-[G00698][PARENT] Detected rubric change. Saving rubric to file...
-[G00699][TA 1] Correcting rubric Q5: N -> O (in shared memory)
-[G00700][TA 1] Marking Q2 for student 0017 (rubric 'N')
-[G00701][PARENT] Detected rubric change. Saving rubric to file...
-[G00702][TA 2] Finished Q2 for student 0017
-[G00703][TA 2] Marking Q3 for student 0017 (rubric 'R')
-[G00704][TA 0] Finished Q2 for student 0017
-[G00705][TA 0] Marking Q3 for student 0017 (rubric 'R')
-[G00706][TA 1] Finished Q2 for student 0017
-[G00707][TA 1] Marking Q3 for student 0017 (rubric 'R')
-[G00708][TA 2] Finished Q3 for student 0017
-[G00709][TA 2] Marking Q5 for student 0017 (rubric 'O')
-[G00710][TA 0] Finished Q3 for student 0017
-[G00711][TA 0] Marking Q5 for student 0017 (rubric 'O')
-[G00712][TA 1] Finished Q3 for student 0017
-[G00713][TA 1] Marking Q5 for student 0017 (rubric 'O')
-[G00714][TA 2] Finished Q5 for student 0017
-[G00715][TA 2] All questions for student 0017 appear done.
-[G00716][TA 2] Waiting for next exam...
-[G00717][PARENT] Loaded exam 18 from data/exams/exam18.txt, student 0018
-[G00718][TA 2] Starting work on student 0018
-[G00719][TA 2] Checking rubric for Q1 (current 'O')
-[G00720][TA 0] Finished Q5 for student 0018
-[G00721][TA 0] Marking Q1 for student 0018 (rubric 'O')
-[G00722][TA 2] Correcting rubric Q1: O -> P (in shared memory)
-[G00723][TA 2] Checking rubric for Q2 (current 'N')
-[G00724][PARENT] Detected rubric change. Saving rubric to file...
-[G00725][TA 1] Finished Q5 for student 0018
-[G00726][TA 1] Marking Q1 for student 0018 (rubric 'P')
-[G00727][TA 2] Correcting rubric Q2: N -> O (in shared memory)
-[G00728][TA 2] Checking rubric for Q3 (current 'R')
-[G00729][PARENT] Detected rubric change. Saving rubric to file...
-[G00730][TA 2] Correcting rubric Q3: R -> S (in shared memory)
-[G00731][TA 2] Checking rubric for Q4 (current 'S')
-[G00732][PARENT] Detected rubric change. Saving rubric to file...
-[G00733][TA 0] Finished Q1 for student 0018
-[G00734][TA 0] Marking Q2 for student 0018 (rubric 'O')
-[G00735][TA 2] Rubric for Q4 unchanged (still 'S')
-[G00736][TA 2] Checking rubric for Q5 (current 'O')
-[G00737][TA 1] Finished Q1 for student 0018
-[G00738][TA 1] Marking Q2 for student 0018 (rubric 'O')
-[G00739][TA 2] Rubric for Q5 unchanged (still 'O')
-[G00740][TA 2] Marking Q2 for student 0018 (rubric 'O')
-[G00741][TA 0] Finished Q2 for student 0018
-[G00742][TA 0] Marking Q3 for student 0018 (rubric 'S')
-[G00743][TA 1] Finished Q2 for student 0018
-[G00744][TA 1] Marking Q3 for student 0018 (rubric 'S')
-[G00745][TA 2] Finished Q2 for student 0018
-[G00746][TA 2] Marking Q3 for student 0018 (rubric 'S')
-[G00747][TA 0] Finished Q3 for student 0018
-[G00748][TA 0] Marking Q4 for student 0018 (rubric 'S')
-[G00749][TA 2] Finished Q3 for student 0018
-[G00750][TA 2] Marking Q4 for student 0018 (rubric 'S')
-[G00751][TA 1] Finished Q3 for student 0018
-[G00752][TA 1] Marking Q4 for student 0018 (rubric 'S')
-[G00753][TA 0] Finished Q4 for student 0018
-[G00754][TA 0] All questions for student 0018 appear done.
-[G00755][TA 0] Waiting for next exam...
-[G00756][PARENT] Loaded exam 19 from data/exams/exam19.txt, student 0019
-[G00757][TA 0] Starting work on student 0019
-[G00758][TA 0] Checking rubric for Q1 (current 'P')
-[G00759][TA 2] Finished Q4 for student 0019
-[G00760][TA 2] Marking Q1 for student 0019 (rubric 'P')
-[G00761][TA 0] Correcting rubric Q1: P -> Q (in shared memory)
-[G00762][TA 0] Checking rubric for Q2 (current 'O')
-[G00763][PARENT] Detected rubric change. Saving rubric to file...
-[G00764][TA 1] Finished Q4 for student 0019
-[G00765][TA 1] Marking Q1 for student 0019 (rubric 'Q')
-[G00766][TA 0] Rubric for Q2 unchanged (still 'O')
-[G00767][TA 0] Checking rubric for Q3 (current 'S')
-[G00768][TA 2] Finished Q1 for student 0019
-[G00769][TA 2] Marking Q2 for student 0019 (rubric 'O')
-[G00770][TA 0] Correcting rubric Q3: S -> T (in shared memory)
-[G00771][TA 0] Checking rubric for Q4 (current 'S')
-[G00772][TA 1] Finished Q1 for student 0019
-[G00773][TA 1] Marking Q2 for student 0019 (rubric 'O')
-[G00774][PARENT] Detected rubric change. Saving rubric to file...
-[G00775][TA 0] Correcting rubric Q4: S -> T (in shared memory)
-[G00776][TA 0] Checking rubric for Q5 (current 'O')
-[G00777][PARENT] Detected rubric change. Saving rubric to file...
-[G00778][TA 2] Finished Q2 for student 0019
-[G00779][TA 2] Marking Q3 for student 0019 (rubric 'T')
-[G00780][TA 1] Finished Q2 for student 0019
-[G00781][TA 1] Marking Q3 for student 0019 (rubric 'T')
-[G00782][TA 0] Rubric for Q5 unchanged (still 'O')
-[G00783][TA 0] Marking Q3 for student 0019 (rubric 'T')
-[G00784][TA 1] Finished Q3 for student 0019
-[G00785][TA 1] Marking Q5 for student 0019 (rubric 'O')
-[G00786][TA 2] Finished Q3 for student 0019
-[G00787][TA 2] Marking Q5 for student 0019 (rubric 'O')
-[G00788][TA 0] Finished Q3 for student 0019
-[G00789][TA 0] Marking Q5 for student 0019 (rubric 'O')
-[G00790][TA 2] Finished Q5 for student 0019
-[G00791][TA 2] All questions for student 0019 appear done.
-[G00792][TA 2] Waiting for next exam...
-[G00793][PARENT] Loaded exam 20 from data/exams/exam20.txt, student 9999
-[G00794][PARENT] Student 9999 reached. Setting terminate flag.
-[G00795][TA 2] terminate flag set before work, exiting.
-[G00796][TA 1] Finished Q5 for student 9999
-[G00797][TA 1] terminate flag set while marking, exiting.
-[G00798][PARENT] Termination condition reached. Waiting for TAs...
-[G00799][TA 0] Finished Q5 for student 9999
-[G00800][TA 0] terminate flag set while marking, exiting.
-[G00801][PARENT] All done.
+[G00696][TA 0] Rubric for Q5 unchanged (still 'Q')
+[G00697][TA 0] Marking Q2 for student 0017 (rubric 'R')
+[G00698][TA 1] Finished Q2 for student 0017
+[G00699][TA 1] Marking Q3 for student 0017 (rubric 'Q')
+[G00700][TA 2] Finished Q2 for student 0017
+[G00701][TA 2] Marking Q3 for student 0017 (rubric 'Q')
+[G00702][TA 0] Finished Q2 for student 0017
+[G00703][TA 0] Marking Q3 for student 0017 (rubric 'Q')
+[G00704][TA 1] Finished Q3 for student 0017
+[G00705][TA 1] Marking Q4 for student 0017 (rubric 'P')
+[G00706][TA 2] Finished Q3 for student 0017
+[G00707][TA 2] Marking Q4 for student 0017 (rubric 'P')
+[G00708][TA 0] Finished Q3 for student 0017
+[G00709][TA 0] Marking Q4 for student 0017 (rubric 'P')
+[G00710][TA 1] Finished Q4 for student 0017
+[G00711][TA 1] All questions for student 0017 appear done.
+[G00712][TA 1] Waiting for next exam...
+[G00713][PARENT] Loaded exam 18 from data/exams/exam18.txt, student 0018
+[G00714][TA 1] Starting work on student 0018
+[G00715][TA 1] Checking rubric for Q1 (current 'N')
+[G00716][TA 1] Rubric for Q1 unchanged (still 'N')
+[G00717][TA 1] Checking rubric for Q2 (current 'R')
+[G00718][TA 2] Finished Q4 for student 0018
+[G00719][TA 2] Marking Q1 for student 0018 (rubric 'N')
+[G00720][TA 1] Rubric for Q2 unchanged (still 'R')
+[G00721][TA 1] Checking rubric for Q3 (current 'Q')
+[G00722][TA 0] Finished Q4 for student 0018
+[G00723][TA 0] Marking Q1 for student 0018 (rubric 'N')
+[G00724][TA 1] Rubric for Q3 unchanged (still 'Q')
+[G00725][TA 1] Checking rubric for Q4 (current 'P')
+[G00726][TA 2] Finished Q1 for student 0018
+[G00727][TA 2] Marking Q2 for student 0018 (rubric 'R')
+[G00728][TA 1] Correcting rubric Q4: P -> Q (in shared memory)
+[G00729][TA 1] Checking rubric for Q5 (current 'Q')
+[G00730][PARENT] Detected rubric change. Saving rubric to file...
+[G00731][TA 0] Finished Q1 for student 0018
+[G00732][TA 0] Marking Q2 for student 0018 (rubric 'R')
+[G00733][TA 1] Rubric for Q5 unchanged (still 'Q')
+[G00734][TA 1] Marking Q2 for student 0018 (rubric 'R')
+[G00735][TA 2] Finished Q2 for student 0018
+[G00736][TA 2] Marking Q3 for student 0018 (rubric 'Q')
+[G00737][TA 0] Finished Q2 for student 0018
+[G00738][TA 0] Marking Q3 for student 0018 (rubric 'Q')
+[G00739][TA 1] Finished Q2 for student 0018
+[G00740][TA 1] Marking Q3 for student 0018 (rubric 'Q')
+[G00741][TA 0] Finished Q3 for student 0018
+[G00742][TA 0] Marking Q5 for student 0018 (rubric 'Q')
+[G00743][TA 2] Finished Q3 for student 0018
+[G00744][TA 2] Marking Q5 for student 0018 (rubric 'Q')
+[G00745][TA 1] Finished Q3 for student 0018
+[G00746][TA 1] Marking Q5 for student 0018 (rubric 'Q')
+[G00747][TA 2] Finished Q5 for student 0018
+[G00748][TA 2] All questions for student 0018 appear done.
+[G00749][TA 2] Waiting for next exam...
+[G00750][PARENT] Loaded exam 19 from data/exams/exam19.txt, student 0019
+[G00751][TA 2] Starting work on student 0019
+[G00752][TA 2] Checking rubric for Q1 (current 'N')
+[G00753][TA 0] Finished Q5 for student 0019
+[G00754][TA 0] Marking Q1 for student 0019 (rubric 'N')
+[G00755][TA 1] Finished Q5 for student 0019
+[G00756][TA 1] Marking Q1 for student 0019 (rubric 'N')
+[G00757][TA 2] Correcting rubric Q1: N -> O (in shared memory)
+[G00758][TA 2] Checking rubric for Q2 (current 'R')
+[G00759][PARENT] Detected rubric change. Saving rubric to file...
+[G00760][TA 0] Finished Q1 for student 0019
+[G00761][TA 0] Marking Q2 for student 0019 (rubric 'R')
+[G00762][TA 2] Rubric for Q2 unchanged (still 'R')
+[G00763][TA 2] Checking rubric for Q3 (current 'Q')
+[G00764][TA 1] Finished Q1 for student 0019
+[G00765][TA 1] Marking Q2 for student 0019 (rubric 'R')
+[G00766][TA 2] Rubric for Q3 unchanged (still 'Q')
+[G00767][TA 2] Checking rubric for Q4 (current 'Q')
+[G00768][TA 0] Finished Q2 for student 0019
+[G00769][TA 0] Marking Q3 for student 0019 (rubric 'Q')
+[G00770][TA 2] Correcting rubric Q4: Q -> R (in shared memory)
+[G00771][TA 2] Checking rubric for Q5 (current 'Q')
+[G00772][PARENT] Detected rubric change. Saving rubric to file...
+[G00773][TA 2] Rubric for Q5 unchanged (still 'Q')
+[G00774][TA 2] Marking Q3 for student 0019 (rubric 'Q')
+[G00775][TA 0] Finished Q3 for student 0019
+[G00776][TA 0] Marking Q4 for student 0019 (rubric 'R')
+[G00777][TA 1] Finished Q2 for student 0019
+[G00778][TA 1] Marking Q4 for student 0019 (rubric 'R')
+[G00779][TA 2] Finished Q3 for student 0019
+[G00780][TA 2] Marking Q4 for student 0019 (rubric 'R')
+[G00781][TA 0] Finished Q4 for student 0019
+[G00782][TA 0] All questions for student 0019 appear done.
+[G00783][TA 0] Waiting for next exam...
+[G00784][PARENT] Loaded exam 20 from data/exams/exam20.txt, student 9999
+[G00785][PARENT] Student 9999 reached. Setting terminate flag.
+[G00786][TA 0] terminate flag set before work, exiting.
+[G00787][PARENT] Termination condition reached. Waiting for TAs...
+[G00788][TA 1] Finished Q4 for student 9999
+[G00789][TA 1] terminate flag set while marking, exiting.
+[G00790][TA 2] Finished Q4 for student 9999
+[G00791][TA 2] terminate flag set while marking, exiting.
+[G00792][PARENT] All done.
